@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Mona Diab",
+        "affliation": "Meta AI",
+        "position": "Lead Responsible AI Research Scientist",
+        "hindex": 53,
+        "photo": "../assets/images/mona-diab.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=-y6SIhQAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
+        "interests": [
+            "Natural Language Processing",
+            "Computational Linguistics",
+            "Arabic NLP",
+            "Cross Lingual/Multilingual Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Abdelrahman Mohamed",
+        "affliation": "Rembrand",
+        "position": "Co-Founder",
+        "hindex": 43,
+        "photo": "../assets/images/abdelrahman-mohamed.jpeg",
+        "scholar": "https://scholar.google.ca/citations?user=tJ_PrzgAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
+        "interests": [
+            "Speech Processing",
+            "Speech Recognition",
+            "Speech Language Processing",
+            "Machine Learning"
+        ]
+    }
+]

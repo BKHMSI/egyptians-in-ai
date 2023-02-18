@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import { IResearcher } from './researchers';
+import people from '../assets/researchers.json';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +8,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'egyptians-in-ai';
+  title = 'Egyptians in AI';
+  researchers: IResearcher[] = people.sort((a, b) => b.hindex - a.hindex);
+
+  constructor() { }
+
+  ngOnInit(): void { }
 }
