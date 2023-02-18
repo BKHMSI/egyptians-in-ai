@@ -4,7 +4,7 @@
         "affliation": "Meta AI",
         "position": "Lead Responsible AI Research Scientist",
         "hindex": 53,
-        "photo": "../assets/images/mona-diab.jpeg",
+        "photo": "./assets/images/mona-diab.jpeg",
         "scholar": "https://scholar.google.com/citations?user=-y6SIhQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
         "interests": [
@@ -20,9 +20,9 @@
         "affliation": "Rembrand",
         "position": "Co-Founder",
         "hindex": 43,
-        "photo": "../assets/images/abdelrahman-mohamed.jpeg",
+        "photo": "./assets/images/abdelrahman-mohamed.jpeg",
         "scholar": "https://scholar.google.ca/citations?user=tJ_PrzgAAAAJ&hl=en",
-        "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
+        "linkedin": "https://www.linkedin.com/in/abdel-rahman-mohamed-a5808210/",
         "interests": [
             "Speech Processing",
             "Speech Recognition",
