@@ -7,6 +7,8 @@
         "photo": "./assets/images/mona-diab.jpeg",
         "scholar": "https://scholar.google.com/citations?user=-y6SIhQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
+        "website": "",
+        "twitter": "https://mobile.twitter.com/MonaDiab77",
         "interests": [
             "Natural Language Processing",
             "Computational Linguistics",
@@ -23,10 +25,100 @@
         "photo": "./assets/images/abdelrahman-mohamed.jpeg",
         "scholar": "https://scholar.google.ca/citations?user=tJ_PrzgAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/abdel-rahman-mohamed-a5808210/",
+        "website": "",
+        "twitter": "",
         "interests": [
             "Speech Processing",
             "Speech Recognition",
             "Speech Language Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Samhaa R. El-Beltagy",
+        "affliation": "New Gize University",
+        "position": "Dean of the School of Information Technology",
+        "hindex": 23,
+        "photo": "./assets/images/samhaa-el-beltagy.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=xdz-3qgAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/samhaa-el-beltagy-b410a530",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Arabic NLP",
+            "Text Mining",
+            "Information Extraction",
+            "Sentiment Analysis",
+            "Semantic Annotation"
+        ]
+    },
+    {
+        "name": "Kareem Darwish",
+        "affliation": "aiXplain",
+        "position": "Principal Scientist",
+        "hindex": 41,
+        "photo": "./assets/images/kareem-darwish.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=y7tlR6UAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/kareem-darwish-788b9125",
+        "website": "http://kareemdarwish.com/files/",
+        "twitter": "https://twitter.com/kareem2darwish",
+        "interests": [
+            "Arabic NLP",
+            "Information Retrieval",
+            "Computational Social Science",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Ahmed Rafea",
+        "affliation": "American University in Cairo",
+        "position": "Professor",
+        "hindex": 28,
+        "photo": "./assets/images/ahmed-rafea.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=szDaQLYAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://www.aucegypt.edu/fac/ahmedrafea",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Translation",
+            "Mining Social Media",
+            "Text Mining",
+            "Knowledge Engineering"
+        ]
+    },
+    {
+        "name": "Mohsen Rashwan",
+        "affliation": "Cairo University",
+        "position": "Professor",
+        "hindex": 21,
+        "photo": "./assets/images/mohsen-rashwan.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=Q4Ic2k0AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mohsen-rashwan-4719364",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Speech Processing",
+            "Natural Language Processing",
+            "Human Language Technology"
+        ]
+    },
+    {
+        "name": "Rana el Kaliouby",
+        "affliation": "Smart Eye",
+        "position": "Deputy CEO",
+        "hindex": 42,
+        "photo": "./assets/images/rana-el-kaliouby.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=tpg6xzgAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/kaliouby/",
+        "website": "https://ranaelkaliouby.com/",
+        "twitter": "https://twitter.com/kaliouby",
+        "interests": [
+            "Affective Computing",
+            "Emotion AI",
+            "Human Perception",
+            "Computer Vision",
             "Machine Learning"
         ]
     }
