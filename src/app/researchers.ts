@@ -6,5 +6,7 @@ export interface IResearcher{
     photo: string;
     scholar: string;
     linkedin: string;
+    website: string;
+    twitter: string;
     interests: string[];
 }

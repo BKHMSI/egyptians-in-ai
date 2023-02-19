@@ -6,38 +6,44 @@
 
 <div class="container" style="margin-top: 6em;">
 
-  <div class="row" style="margin: 5em;">
+  <div class="row" style="margin-top: 5em; margin-bottom: 5em;">
     <p class="text-center">
       Welcome to Egyptian in AI, a website dedicated to showcasing the profiles of prominent Egyptian researchers in the field of artificial intelligence. 
-      If you think that someone is missing from our list of featured researchers, we welcome contributions from the community. You can create a pull request on our <a href="https://github.com/BKHMSI/egyptians-in-ai">GitHub repository</a> to suggest the addition of a new researcher or to update the information for an existing one.
+      If you think that someone is missing from our list of featured researchers, we welcome contributions from the community. To be eligible for consideration to be added to our list, the only requirement is that the individual has an h-index of 5 or higher as displayed on their Google Scholar profile. You can fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLaYBQyOzI5gnlGzwOki3b1TJtFjLUeHUKxkGtXQDhHdSreg/viewform?usp=sf_link">this form</a> to suggest the addition of a new researcher or to update the information for an existing one.
       We hope that you find our website informative and inspiring, and we invite you to explore the profiles of our featured researchers to learn more about their work.
+      The list is sorted by h-index.
     <p>
 
-    <div *ngFor="let researcher of researchers" class="col-lg-4 col-md-6 col-sm-12 mb-4">
+    <div *ngFor="let researcher of researchers" class="col-lg-3 col-md-6 col-sm-12 mb-4">
       <div class="card" style="background-color:whitesmoke;">
         <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="160" height="160" alt="{{ researcher.name }}" style="margin: 0.5rem;">
         <div class="card-body" style="background-color: aliceblue;">
           <h4 class="card-title mb-0"> {{researcher.name}} </h4>
           <h5 class="card-subtitle mb-2 text-muted"> {{researcher.affliation}} </h5>   
-          <h6 class="card-text"> {{researcher.position}} </h6> 
-          <div style="min-height: 5em;">
+          <h6 class="card-text" style="min-height: 2.3em;"> {{researcher.position}} </h6> 
+          <span class="card-text" style="font-size: 0.8rem;"> h-index: {{researcher.hindex}} </span>
+          <div style="min-height: 6em;">
             <strong>Research Interests:</strong>    
             <p class="card-text" style="font-size: 0.8rem;"> {{researcher.interests.toString()}} </p>
           </div>
           <hr>
           <p class="card-text text-center">
-            <a href="{{researcher.scholar}}" target="_blank"><i class="fas fa-graduation-cap"style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
-            <a href="{{researcher.linkedin}}" target="_blank"><i class="fab fa-linkedin" style="font-size: 1.5rem; color: black; padding-left: 0.5rem;"></i></a>
+            <a [hidden]="researcher.website==''" href="{{researcher.website}}" target="_blank"><i class="fas fa-globe"style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.scholar==''" href="{{researcher.scholar}}" target="_blank"><i class="fas fa-graduation-cap"style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.twitter==''" href="{{researcher.twitter}}" target="_blank"><i class="fab fa-twitter"style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.linkedin==''" href="{{researcher.linkedin}}" target="_blank"><i class="fab fa-linkedin" style="font-size: 1.5rem; color: black; padding-left: 0.5rem;"></i></a>
           </p>
         </div>
       </div>
     </div>
   </div>
 
-  <footer>
-    <hr>
-    Developed by Badr AlKhamissi
+  <footer class="footer mt-auto py-3">
+    <div class="container">
+      <span class="text-muted"> Developed and Maintained by <a style="color: black;" href="https://bkhmsi.github.io">Badr AlKhamissi</a> </span>
+    </div>
   </footer>
+
 </div>
 
 <!-- <router-outlet></router-outlet> -->
