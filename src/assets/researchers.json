@@ -36,7 +36,7 @@
     },
     {
         "name": "Samhaa R. El-Beltagy",
-        "affliation": "New Gize University",
+        "affliation": "New Giza University",
         "position": "Dean of the School of Information Technology",
         "hindex": 23,
         "photo": "./assets/images/samhaa-el-beltagy.jpeg",
@@ -120,6 +120,61 @@
             "Human Perception",
             "Computer Vision",
             "Machine Learning"
+        ]
+    },
+    {
+        "name": "Mohamed Afify",
+        "affliation": "Microsoft",
+        "position": "Principal Researcher",
+        "hindex": 18,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=1ZIc388AAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Translation",
+            "Speech Recognition",
+            "Natural Language Processing",
+            "Adaptation Models",
+            "Computational Linguistics",
+            "Phonology"
+        ]
+    },
+    {
+        "name": "Hany Hassan Awadalla",
+        "affliation": "Microsoft",
+        "position": "Partner Research Manager",
+        "hindex": 24,
+        "photo": "./assets/images/hany-hassan.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=jqsVHbsAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/hany-hassan-awadalla/",
+        "website": "https://www.microsoft.com/en-us/research/people/hanyh/",
+        "twitter": "https://twitter.com/hany_hassan",
+        "interests": [
+            "Neural Machine Translation",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Deep Learning",
+            "Semi-supervised Learning"
+        ]
+    },
+    {
+        "name": "Ahmed Tawfik",
+        "affliation": "Microsoft",
+        "position": "Principal Data and Applied Science Manager",
+        "hindex": 11,
+        "photo": "./assets/images/ahmed-tawfik.jpeg",
+        "scholar": "https://scholar.google.com.eg/citations?hl=en&user=8mRqcrIAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/ahmed-tawfik-903a093",
+        "website": "https://www.microsoft.com/en-us/research/people/atawfik/",
+        "twitter": "",
+        "interests": [
+            "Machine Translation",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Deep Learning",
+            "Text-to-Speech"
         ]
     }
 ]
