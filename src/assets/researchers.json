@@ -176,5 +176,23 @@
             "Deep Learning",
             "Text-to-Speech"
         ]
+    },
+    {
+        "name": "Mohamed Moustafa",
+        "affliation": "Amazon",
+        "position": "Applied Science Manager",
+        "hindex": 17,
+        "photo": "./assets/images/mohamed-moustafa.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=QGdReUEAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/mohamed-n-moustafa/",
+        "website": "https://www.aucegypt.edu/fac/mohamedmoustafa",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Machine Learning",
+            "Pattern Recognition",
+            "Biometrics",
+            "Deep Learning"
+        ]
     }
 ]
