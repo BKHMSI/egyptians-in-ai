@@ -194,5 +194,99 @@
             "Biometrics",
             "Deep Learning"
         ]
+    },
+    {
+        "name": "Wael Hamza",
+        "affliation": "Amazon",
+        "position": "Senior Principal Applied Scientist",
+        "hindex": 22,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=rJnetakAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/wael-hamza-5454b63",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Neural Machine Translation",
+            "Natural Language Understanding",
+            "Speech"
+        ]
+    },
+    {
+        "name": "Iz Beltagy",
+        "affliation": "Allen Institute for AI",
+        "position": "Senior Research Scientist",
+        "hindex": 24,
+        "photo": "./assets/images/iz-beltagy.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/beltagy",
+        "website": "https://beltagy.net/",
+        "twitter": "https://twitter.com/i_beltagy",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Waleed Ammar",
+        "affliation": "Allen Institute for AI",
+        "position": "Product Manager",
+        "hindex": 23,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=4NZ58cQAAAAJ",
+        "linkedin": "",
+        "website": "https://wammar.github.io",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Semantic parsing"
+        ]
+    },
+    {
+        "name": "Ahmed H. Awadallah",
+        "affliation": "Microsoft Research",
+        "position": "Senior Principal Research Manager",
+        "hindex": 41,
+        "photo": "./assets/images/ahmed-awadallah.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=sNGk-9MAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://www.microsoft.com/en-us/research/people/hassanam/",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning",
+            "Information Retrieval"
+        ]
+    },
+    {
+        "name": "Hala Mostafa",
+        "affliation": "Raytheon Technologies",
+        "position": "Manager",
+        "hindex": 9,
+        "photo": "./assets/images/hala-mostafa.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=zmNFj_EAAAAJ",
+        "linkedin": "",
+        "website": "http://hmostafa.com/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Amr Awadallah",
+        "affliation": "Vectara",
+        "position": "CEO",
+        "hindex": 0,
+        "photo": "./assets/images/amr-awadallah.jpg",
+        "scholar": "https://www.awadallah.com",
+        "linkedin": "https://www.linkedin.com/in/awadallah/",
+        "website": "https://www.awadallah.com",
+        "twitter": "https://twitter.com/awadallah",
+        "interests": [
+            "Semantic Search",
+            "Machine Learning"
+        ]
     }
 ]
