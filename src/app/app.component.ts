@@ -10,6 +10,8 @@ import people from '../assets/researchers.json';
 export class AppComponent {
   title = 'Egyptians in AI';
   researchers: IResearcher[] = this.shuffle(people);
+  profiles = this.researchers;
+  searchQuery = "";
 
   constructor() { }
 
@@ -29,6 +31,24 @@ export class AppComponent {
 
   sortShuffle() {
     this.researchers = this.shuffle(this.researchers);
+  }
+
+  filterProfiles(event:any) {
+    let query:string = event.target.value.toLowerCase();
+
+    if(query.trim() == ""){
+      this.researchers = this.profiles;
+      return;
+    }
+
+    let filtered:IResearcher[] = []
+    for(let i = 0; i<this.researchers.length; i++){
+      if(this.researchers[i].name.toLowerCase().includes(query)){
+        filtered.push(this.researchers[i]);
+      }
+    }
+
+    this.researchers = filtered;
   }
   
 }
