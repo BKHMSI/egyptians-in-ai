@@ -288,5 +288,224 @@
             "Semantic Search",
             "Machine Learning"
         ]
+    },
+    {
+        "name": "Baher Abdulhai",
+        "affliation": "University of Toronto",
+        "position": "Professor",
+        "hindex": 36,
+        "photo": "./assets/images/abdulhai.png",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=ezgstIoAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/baher-abdulhai-b2460215",
+        "website": "https://uttri.utoronto.ca/people/baher-abdulhai/",
+        "twitter": "",
+        "interests": [
+            "Intelligent Transportation Systems",
+            "Traffic Control and Management",
+            "Evacuation Optimization",
+            "Congestion Pricing"
+        ]
+    },
+    {
+        "name": "Yaser S. Abu-Mostafa",
+        "affliation": "Caltech",
+        "position": "Professor",
+        "hindex": 29,
+        "photo": "./assets/images/yaser-abu-mostafa.jpeg",
+        "scholar": "https://www.semanticscholar.org/author/Y.-Abu-Mostafa/1398965769",
+        "linkedin": "",
+        "website": "https://work.caltech.edu/index.html",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Computational Finance",
+            "Information and Complexity",
+            "Probability and Statistics"
+        ]
+    },
+    {
+        "name": "Marwan Torki",
+        "affliation": "Alexandria University",
+        "position": "Associate Professor",
+        "hindex": 19,
+        "photo": "./assets/images/marwan-torki.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=aYLNZT4AAAAJ",
+        "linkedin": "",
+        "website": "http://eng.staff.alexu.edu.eg/~mtorki/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision",
+            "Deep Learning",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Medhat Moussa",
+        "affliation": "University of Guelph",
+        "position": "Professor",
+        "hindex": 22,
+        "photo": "./assets/images/medhat-moussa.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=x-2sUG4AAAAJ",
+        "linkedin": "https://www.linkedin.com/in/medhat-moussa-3a58713",
+        "website": "https://www.uoguelph.ca/engineering/people/medhat-moussa-phd-peng",
+        "twitter": "",
+        "interests": [
+            "Robotics",
+            "Machine Learning",
+            "Machine Vision",
+            "Reconfigurable Computing"
+        ]
+    },
+    {
+        "name": "Khaled Shaalan",
+        "affliation": "The British University in Dubai",
+        "position": "Professor",
+        "hindex": 54,
+        "photo": "./assets/images/khaled-shaalan.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=keLKdlgAAAAJ",
+        "linkedin": "",
+        "website": "https://sites.google.com/site/khaledshaalan/publications/full-publication-list",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Arabic NLP",
+            "Computational Linguistics",
+            "Natural Language Processing",
+            "Knowledge Management"
+        ]
+    },
+    {
+        "name": "Ossama Emam",
+        "affliation": "IBM",
+        "position": "Senior Technical Staff Member",
+        "hindex": 17,
+        "photo": "./assets/images/ossama-emam.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=3Xa5wWMAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/ossama-emam-ph-d-21b4b2124",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning", 
+            "Information Retrieval/Extraction", 
+            "Mathematical and Statistical Modelling", 
+            "Pattern Recognition",
+            "Speech Technology"
+        ]
+    },
+    {
+        "name": "Alaa Khamis",
+        "affliation": "General Motors",
+        "position": "AI & Smart Mobility Technical Leader",
+        "hindex": 25,
+        "photo": "./assets/images/alaa-khamis.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=btM72xsAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/alaakhamis/",
+        "website": "https://www.alaakhamis.org",
+        "twitter": "",
+        "interests": [
+            "Smart Mobility",
+            "Autonomous and Connected Vehicles",
+            "Cognitive IoT",
+            "Machine Learning", 
+            "Combinatorial Optimization"
+        ]
+    },
+    {
+        "name": "Alaa Sheta",
+        "affliation": "Southern Connecticut (SCSU)",
+        "position": "Professor",
+        "hindex": 30,
+        "photo": "./assets/images/alaa-sheta.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=x7zJsNoAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/alaa-sheta-30577617/",
+        "website": "https://sites.google.com/site/profalaasheta/home",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Data Science",
+            "Image Processing",
+            "Robotics",
+            "Software Engineering"
+        ]
+    },
+    {
+        "name": "Ahmed K. Farahat",
+        "affliation": "Hitachi America, Ltd. R&D",
+        "position": "Principal Research Scientist",
+        "hindex": 18,
+        "photo": "./assets/images/ahmed-farahat.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=5kcdVaYAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/afarahat/",
+        "website": "http://www.afarahat.com",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Data Mining",
+            "Industrial AI"
+        ]
+    },
+    {
+        "name": "Motaz El-Saban",
+        "affliation": "Microsoft",
+        "position": "Principal Data & Applied Science Manager",
+        "hindex": 25,
+        "photo": "./assets/images/motaz-el-saban.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=xHcqzWgAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/motazelsaban/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision"
+        ]
+    },
+    {
+        "name": "Maher Ahmed",
+        "affliation": "Wilfrid Laurier University",
+        "position": "Associate Professor",
+        "hindex": 11,
+        "photo": "./assets/images/maher-ahmed.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=qsJmtkMAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/maher-ahmed-5baa9112",
+        "website": "https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/maher-ahmed/index.html",
+        "twitter": "",
+        "interests": [
+            "Pattern Recogition",
+            "Image Processing"
+        ]
+    },
+    {
+        "name": "Mohamed S. Kamel",
+        "affliation": "University of Waterloo",
+        "position": "Professor",
+        "hindex": 63,
+        "photo": "./assets/images/mohamed-kamel.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=6Evj9YwAAAAJ",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Pattern Analysis",
+            "Machine Intelligence",
+            "Image Analysis",
+            "Pattern Recogition",
+            "Computational Intelligence"
+        ]
+    },
+    {
+        "name": "Ahmad Abdulkader",
+        "affliation": "Meta",
+        "position": "Research And Development Scientist",
+        "hindex": 0,
+        "photo": "./assets/images/ahmad-abdulkader.jpeg",
+        "scholar": "https://www.semanticscholar.org/author/Ahmad-Abdulkader/1859983",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+           "Machine Learning"
+        ]
     }
 ]

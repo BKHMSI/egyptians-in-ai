@@ -9,7 +9,6 @@ import people from '../assets/researchers.json';
 })
 export class AppComponent {
   title = 'Egyptians in AI';
-  // researchers: IResearcher[] = 
   researchers: IResearcher[] = this.shuffle(people);
 
   constructor() { }
