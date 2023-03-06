@@ -10,6 +10,7 @@
         "website": "",
         "twitter": "https://mobile.twitter.com/MonaDiab77",
         "interests": [
+            "Responsible AI",
             "Natural Language Processing",
             "Computational Linguistics",
             "Arabic NLP",
@@ -152,7 +153,7 @@
         "website": "https://www.microsoft.com/en-us/research/people/hanyh/",
         "twitter": "https://twitter.com/hany_hassan",
         "interests": [
-            "Neural Machine Translation",
+            "Machine Translation",
             "Machine Learning",
             "Natural Language Processing",
             "Deep Learning",
@@ -208,7 +209,7 @@
         "interests": [
             "Natural Language Processing",
             "Machine Learning",
-            "Neural Machine Translation",
+            "Machine Translation",
             "Natural Language Understanding",
             "Speech"
         ]
@@ -241,7 +242,7 @@
         "interests": [
             "Natural Language Processing",
             "Machine Learning",
-            "Semantic parsing"
+            "Semantic Parsing"
         ]
     },
     {
@@ -388,7 +389,8 @@
         "twitter": "",
         "interests": [
             "Machine Learning", 
-            "Information Retrieval/Extraction", 
+            "Information Retrieval", 
+            "Information Extraction", 
             "Mathematical and Statistical Modelling", 
             "Pattern Recognition",
             "Speech Technology"
@@ -472,14 +474,14 @@
         "website": "https://www.wlu.ca/academics/faculties/faculty-of-science/faculty-profiles/maher-ahmed/index.html",
         "twitter": "",
         "interests": [
-            "Pattern Recogition",
+            "Pattern Recognition",
             "Image Processing"
         ]
     },
     {
         "name": "Mohamed S. Kamel",
         "affliation": "University of Waterloo",
-        "position": "Professor",
+        "position": "Professor - Passed Away (2015)",
         "hindex": 63,
         "photo": "./assets/images/mohamed-kamel.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=6Evj9YwAAAAJ",
@@ -490,14 +492,14 @@
             "Pattern Analysis",
             "Machine Intelligence",
             "Image Analysis",
-            "Pattern Recogition",
+            "Pattern Recognition",
             "Computational Intelligence"
         ]
     },
     {
         "name": "Ahmad Abdulkader",
         "affliation": "Meta",
-        "position": "Research And Development Scientist",
+        "position": "Research And Development Scientist - Passed Away (2021)",
         "hindex": 0,
         "photo": "./assets/images/ahmad-abdulkader.jpeg",
         "scholar": "https://www.semanticscholar.org/author/Ahmad-Abdulkader/1859983",
@@ -506,6 +508,37 @@
         "twitter": "",
         "interests": [
            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Ali Elkahky",
+        "affliation": "Meta",
+        "position": "Research Scientist",
+        "hindex": 11,
+        "photo": "./assets/images/ali-elkahky.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=KB3S8RoAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ali-elkahky-32711ab/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+           "Machine Learning",
+           "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Ahmed El Kholy",
+        "affliation": "Microsoft",
+        "position": "Senior Applied Scientist",
+        "hindex": 16,
+        "photo": "./assets/images/ali-elkahky.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=n4PqfX0AAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://www.microsoft.com/en-us/research/people/ahelkhol/",
+        "twitter": "",
+        "interests": [
+           "Machine Learning",
+           "Natural Language Processing",
+           "Conversational AI"
         ]
     }
 ]
