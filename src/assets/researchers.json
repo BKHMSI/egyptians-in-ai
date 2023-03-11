@@ -540,5 +540,22 @@
            "Natural Language Processing",
            "Conversational AI"
         ]
+    },
+    {
+        "name": "Walid Magdy",
+        "affliation": "University of Edinburgh",
+        "position": "Associate Professor",
+        "hindex": 37,
+        "photo": "./assets/images/walid-magdy.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=ACQD8jMAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://homepages.inf.ed.ac.uk/wmagdy/",
+        "twitter": "https://twitter.com/Walid_Magdy",
+        "interests": [
+           "Computational Social Science",
+           "Natural Language Processing",
+           "Data Mining",
+           "Information Retrieval"
+        ]
     }
 ]

@@ -68,51 +68,55 @@
       <summary>Filter by Research Interests</summary>
       <div class="form-group">
         <div *ngFor="let interest of rinterests | keyvalue" class="form-check">
-            <input class="form-check-input" id="{{interest.key}}Checkbox" type="checkbox" value="{{interest.key}}" (change)="filterInterests()" [(ngModel)]="rinterests[interest.key]">
-            <label class="form-check-label" for="{{interest.key}}Checkbox">{{interest.key}} ({{rinterestsFreq[interest.key]}})</label>
+          <input class="form-check-input" id="{{interest.key}}Checkbox" type="checkbox" value="{{interest.key}}"
+            (change)="filterInterests()" [(ngModel)]="rinterests[interest.key]">
+          <label class="form-check-label" for="{{interest.key}}Checkbox">{{interest.key}}
+            ({{rinterestsFreq[interest.key]}})</label>
         </div>
       </div>
     </details>
 
-  <div *ngFor="let researcher of researchers" class="col-lg-3 col-md-6 col-sm-12 mb-4">
-    <div class="card" style="background-color:whitesmoke;">
-      <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="160" height="160"
-        alt="{{ researcher.name }}" style="margin: 0.5rem;">
-      <div class="card-body" style="background-color: aliceblue;">
-        <h4 class="card-title mb-0"> {{researcher.name}} </h4>
-        <h5 class="card-subtitle mb-2 text-muted"> {{researcher.affliation}} </h5>
-        <h6 class="card-text" style="min-height: 2.3em;"> {{researcher.position}} </h6>
-        <span [hidden]="researcher.hindex==0" class="card-text" style="font-size: 0.8rem;"> h-index:
-          {{researcher.hindex}} </span>
-        <span [hidden]="researcher.hindex!=0" class="card-text" style="font-size: 0.8rem;"> h-index: - </span>
-        <div style="min-height: 7em;">
-          <strong>Research Interests:</strong>
-          <p class="card-text" style="font-size: 0.8rem;"> {{researcher.interests.toString()}} </p>
+    <div *ngFor="let researcher of researchers" class="col-lg-3 col-md-6 col-sm-12 mb-4">
+      <div class="card" style="background-color:whitesmoke;">
+        <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="160" height="160"
+          alt="{{ researcher.name }}" style="margin: 0.5rem;">
+        <div class="card-body" style="background-color: aliceblue;">
+          <h4 class="card-title mb-0"> {{researcher.name}} </h4>
+          <h5 class="card-subtitle mb-2 text-muted"> {{researcher.affliation}} </h5>
+          <h6 class="card-text" style="min-height: 2.3em;"> {{researcher.position}} </h6>
+          <span [hidden]="researcher.hindex==0" class="card-text" style="font-size: 0.8rem;"> h-index:
+            {{researcher.hindex}} </span>
+          <span [hidden]="researcher.hindex!=0" class="card-text" style="font-size: 0.8rem;"> h-index: - </span>
+          <div style="min-height: 7em;">
+            <strong>Research Interests:</strong>
+            <p class="card-text" style="font-size: 0.8rem;"> {{researcher.interests.toString()}} </p>
+          </div>
+          <hr>
+          <p class="card-text text-center">
+            <a [hidden]="researcher.website==''" href="{{researcher.website}}" target="_blank"><i class="fas fa-globe"
+                style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.scholar==''" href="{{researcher.scholar}}" target="_blank"><i
+                class="fas fa-graduation-cap" style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.twitter==''" href="{{researcher.twitter}}" target="_blank"><i class="fab fa-twitter"
+                style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+            <a [hidden]="researcher.linkedin==''" href="{{researcher.linkedin}}" target="_blank"><i
+                class="fab fa-linkedin" style="font-size: 1.5rem; color: black; padding-left: 0.5rem;"></i></a>
+          </p>
         </div>
-        <hr>
-        <p class="card-text text-center">
-          <a [hidden]="researcher.website==''" href="{{researcher.website}}" target="_blank"><i class="fas fa-globe"
-              style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
-          <a [hidden]="researcher.scholar==''" href="{{researcher.scholar}}" target="_blank"><i
-              class="fas fa-graduation-cap" style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
-          <a [hidden]="researcher.twitter==''" href="{{researcher.twitter}}" target="_blank"><i class="fab fa-twitter"
-              style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
-          <a [hidden]="researcher.linkedin==''" href="{{researcher.linkedin}}" target="_blank"><i
-              class="fab fa-linkedin" style="font-size: 1.5rem; color: black; padding-left: 0.5rem;"></i></a>
-        </p>
       </div>
     </div>
   </div>
-</div>
 
-<footer class="footer mt-auto py-3">
-  <div class="container">
-    <span class="text-muted"> Developed and Maintained by <a style="color: black;" href="https://bkhmsi.github.io">Badr
-        AlKhamissi</a>.</span>
-    <span class="text-muted" style="float: right"><a href="#" style="color: black;"> Top <i class="fas fa-arrow-up"></i>
-      </a> </span>
-  </div>
-</footer>
+  <footer class="footer mt-auto py-3">
+    <div class="container">
+      <span class="text-muted"> Developed and Maintained by <a style="color: black;"
+          href="https://bkhmsi.github.io">Badr
+          AlKhamissi</a>.</span>
+      <span class="text-muted" style="float: right"><a href="#" style="color: black;"> Top <i
+            class="fas fa-arrow-up"></i>
+        </a> </span>
+    </div>
+  </footer>
 
 </div>
 
