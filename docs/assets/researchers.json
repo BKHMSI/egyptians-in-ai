@@ -1,7 +1,7 @@
 [
     {
         "name": "Mona Diab",
-        "affliation": "Meta AI",
+        "affliation": "Meta",
         "position": "Lead Responsible AI Research Scientist",
         "hindex": 53,
         "photo": "./assets/images/mona-diab.jpeg",
@@ -388,10 +388,10 @@
         "website": "",
         "twitter": "",
         "interests": [
-            "Machine Learning", 
-            "Information Retrieval", 
-            "Information Extraction", 
-            "Mathematical and Statistical Modelling", 
+            "Machine Learning",
+            "Information Retrieval",
+            "Information Extraction",
+            "Mathematical and Statistical Modelling",
             "Pattern Recognition",
             "Speech Technology"
         ]
@@ -410,7 +410,7 @@
             "Smart Mobility",
             "Autonomous and Connected Vehicles",
             "Cognitive IoT",
-            "Machine Learning", 
+            "Machine Learning",
             "Combinatorial Optimization"
         ]
     },
@@ -507,7 +507,7 @@
         "website": "",
         "twitter": "",
         "interests": [
-           "Machine Learning"
+            "Machine Learning"
         ]
     },
     {
@@ -521,8 +521,8 @@
         "website": "",
         "twitter": "",
         "interests": [
-           "Machine Learning",
-           "Natural Language Processing"
+            "Machine Learning",
+            "Natural Language Processing"
         ]
     },
     {
@@ -536,9 +536,9 @@
         "website": "https://www.microsoft.com/en-us/research/people/ahelkhol/",
         "twitter": "",
         "interests": [
-           "Machine Learning",
-           "Natural Language Processing",
-           "Conversational AI"
+            "Machine Learning",
+            "Natural Language Processing",
+            "Conversational AI"
         ]
     },
     {
@@ -552,10 +552,354 @@
         "website": "https://homepages.inf.ed.ac.uk/wmagdy/",
         "twitter": "https://twitter.com/Walid_Magdy",
         "interests": [
-           "Computational Social Science",
-           "Natural Language Processing",
-           "Data Mining",
-           "Information Retrieval"
+            "Computational Social Science",
+            "Natural Language Processing",
+            "Data Mining",
+            "Information Retrieval"
+        ]
+    },
+    {
+        "name": "Ahmed Ali",
+        "affliation": "QCRI",
+        "position": "Principal Engineer",
+        "hindex": 22,
+        "photo": "./assets/images/ahmed-ali.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=t0gYEjAAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmedali08",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Speech Recognition"
+        ]
+    },
+    {
+        "name": "Neamat El Gayar",
+        "affliation": "Heriot Watt University",
+        "position": "Director & Uni Professor",
+        "hindex": 15,
+        "photo": "./assets/images/neamat-elgayar.jpg",
+        "scholar": "https://scholar.google.com/citations?user=RHDcyz8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/neamat-el-gayar-07b7297a/",
+        "website": "",
+        "twitter": "https://twitter.com/Neamat11647418",
+        "interests": [
+            "Neural Networks",
+            "Machine Learning",
+            "Computational Intelligence",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Amir Alansary",
+        "affliation": "Jaguar Land Rover",
+        "position": "ML & CV Team Lead",
+        "hindex": 20,
+        "photo": "./assets/images/amir-alansary.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=Sj11Jo8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/amiralansary/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Machine Learning",
+            "Reinforcement Learning",
+            "Autonomous Vehicles Perception and Path Planning",
+            "Medical Imaging"
+        ]
+    },
+    {
+        "name": "Mustafa A. Elattar",
+        "affliation": "Nile University",
+        "position": "Assistant Professor",
+        "hindex": 10,
+        "photo": "./assets/images/mustafa-elattar.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=BJoskL8AAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Medical Imaging",
+            "Pattern Recognition",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Hesham Eraqi",
+        "affliation": "Amazon",
+        "position": "Senior Scientist",
+        "hindex": 9,
+        "photo": "./assets/images/hesham-eraqi.jpg",
+        "scholar": "https://scholar.google.com.eg/citations?user=Sk-VfXYAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/heshameraqi",
+        "website": "https://heshameraqi.github.io",
+        "twitter": "",
+        "interests": [
+            "Geospatial Machine Learning",
+            "Autonomous Driving",
+            "Deep Learning",
+            "Handwriting Recognition"
+        ]
+    },
+    {
+        "name": "Ahmed Alsallab",
+        "affliation": "Microsoft",
+        "position": "Principal Applied Science Manager",
+        "hindex": 18,
+        "photo": "./assets/images/ahmad-al-sallab.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=hiEbSZYAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmad-el-sallab-phd-7aa2195a",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Deep Learning",
+            "Computer Vision",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Gamaleldin Elsayed",
+        "affliation": "Google Brain",
+        "position": "Senior Research Scientist",
+        "hindex": 14,
+        "photo": "./assets/images/gamaleldin-elsayed.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=7PrTPzsAAAAJ&hl=en&oi=ao",
+        "linkedin": "",
+        "website": "http://www.columbia.edu/~gfa2109/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision",
+            "Computational Neuroscience"
+        ]
+    },
+    {
+        "name": "Mahmoud Abou-Nasr",
+        "affliation": "Ford Motor Company",
+        "position": "Lecturer III",
+        "hindex": 11,
+        "photo": "./assets/images/mahmoud-abou-nasr.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=qkvufmcAAAAJ",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Neural Networks",
+            "Data Mining",
+            "Deep Learning",
+            "Reinforcement Learning",
+            "Optimization"
+        ]
+    },
+    {
+        "name": "Mohamed Elhoseiny",
+        "affliation": "KAUST",
+        "position": "Assistant Professor",
+        "hindex": 31,
+        "photo": "./assets/images/mohamed-elhoseiny.png",
+        "scholar": "https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215",
+        "website": "http://www.mohamed-elhoseiny.com/",
+        "twitter": "https://twitter.com/moElhoseiny",
+        "interests": [
+            "Zero-Shot Learning",
+            "Few-Shot Learning",
+            "Computer Vision",
+            "Computational Creativity",
+            "Vision and Language"
+        ]
+    },
+    {
+        "name": "Amr Ahmed",
+        "affliation": "Google",
+        "position": "Senior Staff Research Scientist",
+        "hindex": 40,
+        "photo": "./assets/images/amr-ahmed.png",
+        "scholar": "https://scholar.google.com/citations?user=ivUi2T0AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/amr-ahmed-b998965",
+        "website": "https://research.google/people/AmrAhmed/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Big Data",
+            "User Modeling",
+            "Personalization",
+            "Content Analysis"
+        ]
+    },
+    {
+        "name": "Mohamed Elkamhawy",
+        "affliation": "Microsoft",
+        "position": "Principal ML Engineer",
+        "hindex": 0,
+        "photo": "./assets/images/mohamed-elkamhawy.jpg",
+        "scholar": "",
+        "linkedin": "https://www.linkedin.com/in/mohamedelkamhawy",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Large Language Models",
+            "Natural Language Processing",
+            "Responsible AI"
+        ]
+    },
+    {
+        "name": "Amir Atiya",
+        "affliation": "Cairo University",
+        "position": "Professor",
+        "hindex": 48,
+        "photo": "./assets/images/amir-atiya.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=sT6n4zAAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/amir-atiya-8685b7",
+        "website": "https://cairo.academia.edu/AmirAtiya",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Pattern Classification",
+            "Computational Finance"
+        ]
+    },
+    {
+        "name": "Ramy Eskander",
+        "affliation": "Twitter",
+        "position": "Senior Research Scientist",
+        "hindex": 17,
+        "photo": "./assets/images/ramy-eskander.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=4SE1GIgAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ramyeskander/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "NLP",
+            "Recommendation Systems",
+            "Multilinguality",
+            "Low-Resource Languages",
+            "Arabic NLP",
+            "Unsupervised and Semi-Supervised Learning"
+        ]
+    },
+    {
+        "name": "Tamer Elsayed",
+        "affliation": "Qatar University",
+        "position": "Associate Professor",
+        "hindex": 30,
+        "photo": "./assets/images/tamer-elsayed.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=ekS-yPIAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/tamer-elsayed-a9a71116/",
+        "website": "http://qufaculty.qu.edu.qa/telsayed/",
+        "twitter": "https://twitter.com/tamer_elsayed",
+        "interests": [
+            "Information Retrieval",
+            "Natural Language Processing",
+            "Applied Machine Learning",
+            "Big Data Analytics"
+        ]
+    },
+    {
+        "name": "Mohamed Elbadrashiny",
+        "affliation": "aiXplain",
+        "position": "Principal Scientist",
+        "hindex": 16,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=DppUkNUAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/mohamed-elbadrashiny-591908b",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Multimodal Dialog",
+            "Large Language Models"
+        ]
+    },
+    {
+        "name": "Ibrahim Sabek",
+        "affliation": "MIT",
+        "position": "Postdoctoral Associate",
+        "hindex": 11,
+        "photo": "./assets/images/ibrahim-sabek.png",
+        "scholar": "https://scholar.google.com/citations?user=R8732voAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ibrahim-sabek-52642223",
+        "website": "http://people.csail.mit.edu/ibrahimsabek/",
+        "twitter": "https://twitter.com/ibrahim_sabek",
+        "interests": [
+            "Machine Learning for Database Systems"
+        ]
+    },
+    {
+        "name": "Mostafa Saad Ibrahim",
+        "affliation": "Nvidia",
+        "position": "Senior Computer Vision Engineer",
+        "hindex": 6,
+        "photo": "./assets/images/mostafa-s-ibrahim.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=2fSZbmkAAAAJ&hl=en/",
+        "linkedin": "https://www.linkedin.com/in/mostafasaad",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision"
+        ]
+    },
+    {
+        "name": "Mostafa Elhoushi",
+        "affliation": "Meta",
+        "position": "Research Engineer",
+        "hindex": 11,
+        "photo": "./assets/images/mostafa-elhoushi.jpeg",
+        "scholar": "https://scholar.google.ca/citations?user=y_cwSKAAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mostafaelhoushi/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Deep Learning",
+            "Navigation",
+            "Quantum Computing"
+        ]
+    },
+    {
+        "name": "Ahmed Saad",
+        "affliation": "Amazon",
+        "position": "Senior Applied Scientist",
+        "hindex": 0,
+        "photo": "./assets/images/ahmed-saad.jpeg",
+        "scholar": "",
+        "linkedin": "https://www.linkedin.com/in/ahmed-saad-b0b681168/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning"        
+        ]
+    },
+    {
+        "name": "Sameh Khamis",
+        "affliation": "Rembrand",
+        "position": "Lead Research Scientist",
+        "hindex": 20,
+        "photo": "./assets/images/sameh-khamis.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=9WgcwYQAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/samehkhamis/",
+        "website": "https://www.samehkhamis.com",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision",
+            "Graphics"      
+        ]
+    },
+    {
+        "name": "Ibrahim Sobh",
+        "affliation": "Valeo",
+        "position": "Senior Expert of AI",
+        "hindex": 10,
+        "photo": "./assets/images/ibrahim-sobh.jpeg",
+        "scholar": "https://scholar.google.com.eg/citations?user=SODWkygAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ibrahim-sobh-phd-8681757/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision",
+            "Autonomous Driving"    
         ]
     }
 ]
