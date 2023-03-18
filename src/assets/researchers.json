@@ -817,11 +817,12 @@
         "hindex": 11,
         "photo": "./assets/images/ibrahim-sabek.png",
         "scholar": "https://scholar.google.com/citations?user=R8732voAAAAJ&hl=en",
-        "linkedin": "https://www.linkedin.com/in/ibrahim-sabek-52642223",
+        "linkedin": "http://www.linkedin.com/pub/ibrahim-sabek/23/422/526",
         "website": "http://people.csail.mit.edu/ibrahimsabek/",
         "twitter": "https://twitter.com/ibrahim_sabek",
         "interests": [
-            "Machine Learning for Database Systems"
+            "Machine Learning for Database Systems",
+            "Data Management and Analysis"
         ]
     },
     {
@@ -867,7 +868,7 @@
         "website": "",
         "twitter": "",
         "interests": [
-            "Machine Learning"        
+            "Machine Learning"
         ]
     },
     {
@@ -883,7 +884,7 @@
         "interests": [
             "Machine Learning",
             "Computer Vision",
-            "Graphics"      
+            "Graphics"
         ]
     },
     {
@@ -899,7 +900,272 @@
         "interests": [
             "Machine Learning",
             "Computer Vision",
-            "Autonomous Driving"    
+            "Autonomous Driving"
+        ]
+    },
+    {
+        "name": "Aboul Ella Hassanien",
+        "affliation": "Cairo University",
+        "position": "Professor",
+        "hindex": 81,
+        "photo": "./assets/images/aboul-ella-hassanien-ali.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=aZ6bcngAAAAJ&hl=en",
+        "linkedin": "https://eg.linkedin.com/in/aboul-ella-hassanien-48a9528",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Swarm Optimization",
+            "IoT",
+            "Drones",
+            "Metaverses",
+            "Biomedical Informatics"
+        ]
+    },
+    {
+        "name": "Fahmi Khalifa",
+        "affliation": "Mansoura University",
+        "position": "Assistant Professor",
+        "hindex": 47,
+        "photo": "./assets/images/fahmi-khalifa.jpeg",
+        "scholar": "https://scholar.google.ca/citations?user=Ua1i31oAAAAJ&hl=fr&oi=ao",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Medical Image Analysis",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Pattern Recognition",
+            "Image and Signal Processing",
+            "Multimedia",
+            "Biomedical Informatics"
+        ]
+    },
+    {
+        "name": "Khaled Fathy Hussein",
+        "affliation": "Assiut University",
+        "position": "Head of CS Department",
+        "hindex": 17,
+        "photo": "./assets/images/khaled-hussain.jpeg",
+        "scholar": "https://scholar.google.com.eg/citations?hl=en&user=8DgiMfcAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "",
+        "website": "https://www.aun.edu.eg/fci/khaled-fathy-hussein-saleh",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Computer Graphics",
+            "Neural Networks"
+        ]
+    },
+    {
+        "name": "Mohamed Nabih Ali",
+        "affliation": "Fondazione Bruno Kessler",
+        "position": "Post Doctoral Researcher",
+        "hindex": 5,
+        "photo": "./assets/images/mohamed-nabih.jpg",
+        "scholar": "https://scholar.google.com/citations?user=6VXSI8wAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mohamed-nabih-5011b074/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Deep Learning",
+            "Speech Enhancement and Recognition",
+            "Biomedical Signal Processing",
+            "Image Processing"
+        ]
+    },
+    {
+        "name": "Omar Khattab",
+        "affliation": "Stanford University",
+        "position": "PhD Student",
+        "hindex": 11,
+        "photo": "./assets/images/omar-khattab.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=Lwr5ozgAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://omarkhattab.com/",
+        "twitter": "https://twitter.com/lateinteraction",
+        "interests": [
+            "Natural Language Processing",
+            "Information Retrieval"
+        ]
+    },
+    {
+        "name": "Ahmed Elgammal",
+        "affliation": "Rutgers University",
+        "position": "Professor",
+        "hindex": 54,
+        "photo": "./assets/images/ahmed-elgammal.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=DxQiCiIAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmed-elgammal-71667911/",
+        "website": "https://sites.rutgers.edu/ahmed-elgammal/",
+        "twitter": "https://twitter.com/ahmed_elgammal?lang=en",
+        "interests": [
+            "Computer Vision"
+        ]
+    },
+    {
+        "name": "Ahmed El-Kishky",
+        "affliation": "Twitter",
+        "position": "Staff ML Researcher",
+        "hindex": 14,
+        "photo": "./assets/images/ahmed-el-kishky.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=A4frpBcAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmed-e-56566b47/",
+        "website": "https://ahelk.github.io/",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "NLP",
+            "Data Mining",
+            "Graph Learning",
+            "Recommender Systems"
+        ]
+    },
+    {
+        "name": "Moustafa Alzantot",
+        "affliation": "Google Research",
+        "position": "Senior Engineer",
+        "hindex": 16,
+        "photo": "./assets/images/moustafa-alzantot.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=AusbFkQAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/malzantot/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Recommender Systems",
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Heba Elfardy",
+        "affliation": "Amazon",
+        "position": "Senior ML Scientist",
+        "hindex": 11,
+        "photo": "./assets/images/heba-elfardy.jpeg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=L6lzWrYAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/heba-elfardy-a0984b2b",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing"
+        ]
+    },
+    {
+        "name": "Ahmed Hefny",
+        "affliation": "Cruise",
+        "position": "Staff Research Scientist",
+        "hindex": 13,
+        "photo": "./assets/images/ahmed-hefny.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=FAv6Nd8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmed-hefny",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Hady Elsahar",
+        "affliation": "Meta",
+        "position": "Research Scientist",
+        "hindex": 14,
+        "photo": "./assets/images/hady-elsahar.jpeg",
+        "scholar": "https://scholar.google.com.eg/citations?user=SbcM6bsAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://www.hadyelsahar.io/",
+        "twitter": "https://twitter.com/hadyelsahar",
+        "interests": [
+            "Natural Language Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Ahmed M. Badawi",
+        "affliation": "Cairo University",
+        "position": "Professor",
+        "hindex": 16,
+        "photo": "./assets/images/ahmed-badawi.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=r9pLu6EAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/ahmed-badawi-215167a",
+        "website": "https://ieeexplore.ieee.org/author/37345733000",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Biometric",
+            "Medical Imaging",
+            "Medical Diagnosis",
+            "Multimodal Matching",
+            "Image Processing",
+            "Pattern Recognition",
+            "Pattern Classification"
+        ]
+    },
+    {
+        "name": "Mostafa Badawy",
+        "affliation": "Apple",
+        "position": "(AI/ML) Software Engineer (Siri)",
+        "hindex": 7,
+        "photo": "./assets/images/mostafa-badawy.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=iq8c9CkAAAAJ",
+        "linkedin": "https://www.linkedin.com/in/mostafa-gamal-badawy/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computer Vision",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "name": "Muhammad AbdulMageed",
+        "affliation": "UBC",
+        "position": "Associate Professor",
+        "hindex": 24,
+        "photo": "./assets/images/muhammad-abdulmageed.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=SOjQhl8AAAAJ",
+        "linkedin": "",
+        "website": "https://mageed.arts.ubc.ca/",
+        "twitter": "",
+        "interests": [
+            "Arabic NLP",
+            "Natural Language Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "name": "Wael Abd-Almageed",
+        "affliation": "USC",
+        "position": "Research Associate Professor",
+        "hindex": 30,
+        "photo": "./assets/images/wael-abdalmageed.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=tRGH8FkAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Machine Learning",
+            "Computer Vision"
+        ]
+    },
+    {
+        "name": "Youssef Nashed",
+        "affliation": "Stanford University",
+        "position": "Staff ML Scientist",
+        "hindex": 20,
+        "photo": "./assets/images/youssef-nashed.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=pQXy90QAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ynashed/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Geometric Deep Learning",
+            "Graph Neural Networks"
         ]
     }
 ]
