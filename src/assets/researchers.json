@@ -1167,5 +1167,85 @@
             "Geometric Deep Learning",
             "Graph Neural Networks"
         ]
+    },
+    {
+        "name": "Abubakr Karali",
+        "affliation": "NVIDIA",
+        "position": "Senior Solutions Architect",
+        "hindex": 5,
+        "photo": "./assets/images/abubakr-karali.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=ACxQHBUAAAAJ&hl=en",
+        "linkedin": "https://se.linkedin.com/in/abubakr-karali-8988486b",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Self-Supervised Learning"
+        ]
+    },
+    {
+        "name": "Ahmed Sahlol",
+        "affliation": "Co-founder Tachyhealth",
+        "position": "Associate Professor of ML",
+        "hindex": 14,
+        "photo": "./assets/images/ahmed-sahlol.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=JZB2oMQAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmed-sahloul",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Medical Imaging",
+            "Medical NLP",
+            "Medical Fraud Detection"
+        ]
+    },
+    {
+        "name": "Eslam Kamal",
+        "affliation": "Microsoft",
+        "position": "Applied Science Manager",
+        "hindex": 8,
+        "photo": "./assets/images/eslam-kamal.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=KRFyxS0AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/eslamkamal85",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "NLP",
+            "LLMs",
+            "Conversational AI",
+            "Responsible AI"
+        ]
+    },
+    {
+        "name": "Yehia Elshater",
+        "affliation": "Amazon",
+        "position": "Data/Applied Scientist",
+        "hindex": 5,
+        "photo": "./assets/images/yehia-elshater.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=S8MZ9PMAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/yehiaz/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Recommendation Engines",
+            "NLP",
+            "Forecasting"
+        ]
+    },
+    {
+        "name": "Ahmed Rashed",
+        "affliation": "Volkswagen Financial Service",
+        "position": "Senior Data Scientist",
+        "hindex": 5,
+        "photo": "./assets/images/ahmed-rashed.jpeg",
+        "scholar": "https://scholar.google.com.eg/citations?user=-wyZHw8AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmedrashed-ai/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Recommender Systems",
+            "Graph Mining",
+            "Time Series Forecasting"
+        ]
     }
 ]

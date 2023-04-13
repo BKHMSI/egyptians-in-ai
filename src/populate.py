@@ -18,6 +18,7 @@ if __name__ == "__main__":
     out_file = "./assets/researchers_update.json"
     researchers = read_json('./assets/researchers.json')
     responses = pd.read_csv('./assets/researchers.csv', header=0)
+    new_researchers = []
 
     names = [entry["name"] for entry in researchers]
 
@@ -35,7 +36,7 @@ if __name__ == "__main__":
             interests = [interest.strip() for interest in response["Research Interests"].split(",")] if not pd.isna(response["Research Interests"]) else []
             if name not in names:
                 print(f"> [Add] {name}")
-                researchers += [{
+                new_researchers += [{
                     "name": name,
                     "affliation": response["Affiliation"].strip(),
                     "position": response["Position"].strip(),
@@ -56,4 +57,4 @@ if __name__ == "__main__":
             website = response["Personal Website.1"]
             interests = [interest.strip() for interest in response["Research Interests.1"].split(",")] if not pd.isna(response["Research Interests.1"]) else []
             print(f"> [Update] {name}")
-    write_json(out_file, researchers)
+    write_json(out_file, new_researchers)
