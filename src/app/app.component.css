@@ -42,9 +42,39 @@
     right: 5px;
 }
 
+.blur {
+    background: whitesmoke;
+    filter: blur(0.1px);  
+}
+
+.rgrid {
+    width: 7%;
+    display: inline-block;
+}
+
+div.click-to-top span {
+    display: none;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    background: white;
+    color: black;
+    font-size: small;
+  }
+  
+div.click-to-top:hover span {
+    display: block;
+}
+
 @media (max-width: 992px) {
     .search {
         margin-top: 1rem;
         margin-bottom: 1rem;
+    }
+
+    .rgrid {
+        width: 14%;
+        display: inline-block;
     }
 }
