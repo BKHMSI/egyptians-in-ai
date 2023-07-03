@@ -52,6 +52,10 @@ export class AppComponent {
   sortHIndex() {
     this.researchers = people.sort((a, b) => b.hindex - a.hindex);
   }
+  
+  sortCitations() {
+    this.researchers = people.sort((a, b) => b.citedby - a.citedby);
+  }
 
   sortShuffle() {
     this.researchers = this.shuffle(this.researchers);

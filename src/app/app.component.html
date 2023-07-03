@@ -43,19 +43,24 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-md-12 col-sm-12">
+      <div class="col-lg-1 col-md-12 col-sm-12">
         <button class="btn btn-outline-secondary sort-button w-100 title" (click)="sortAZ()">
-          <i class="fas fa-sort-alpha-down"></i> Sort Alphabetically
+          <i class="fas fa-sort-alpha-down"></i> AZ
         </button>
       </div>
       <div class="col-lg-2 col-md-12 col-sm-12">
         <button class="btn btn-outline-success sort-button w-100 title" (click)="sortHIndex()">
-          <i class="fa-solid fa-arrow-down-9-1"></i> Sort by h-Index
+          <i class="fa-solid fa-arrow-down-9-1"></i> h-Index
         </button>
       </div>
-      <div class="col-lg-2 col-md-12 col-sm-12 title">
+      <div class="col-lg-2 col-md-12 col-sm-12">
+        <button class="btn btn-outline-info sort-button w-100 title" (click)="sortCitations()">
+          <i class="fa-solid fa-arrow-down-9-1"></i> Citations
+        </button>
+      </div>
+      <div class="col-lg-1 col-md-12 col-sm-12 title">
         <button class="btn btn-outline-danger sort-button w-100" (click)="sortShuffle()">
-          <i class="fas fa-shuffle"></i> Shuffle
+          <i class="fas fa-shuffle"></i>
         </button>
       </div>
     </div>
@@ -101,8 +106,10 @@
           <h4 class="card-title mb-0" style="font-size:1.4rem"> {{researcher.name}} </h4>
           <h5 class="card-subtitle mb-2 text-muted"> {{researcher.affliation}} </h5>
           <h6 class="card-text" style="min-height: 2.3em;"> {{researcher.position}} </h6>
-          <span [hidden]="researcher.hindex==0" class="card-text" style="font-size: 0.8rem;"> h-index:
-            {{researcher.hindex}} </span>
+          <span [hidden]="researcher.hindex==0" class="card-text" style="font-size: 0.8rem;"> 
+            h-index: {{researcher.hindex}} | 
+            Citations: {{researcher.citedby | number}} 
+          </span>
           <span [hidden]="researcher.hindex!=0" class="card-text" style="font-size: 0.8rem;"> h-index: - </span>
           <div style="min-height: 7em;">
             <strong>Research Interests:</strong>

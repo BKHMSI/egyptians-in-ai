@@ -38,6 +38,9 @@ if __name__ == "__main__":
             researcher["citedby"] = author["citedby"]
             researcher["lastupdate"] = formatted_date
         else:
+            if "lastupdate" not in researcher:
+                researcher["lastupdate"] = ""
+                researcher["citedby"] = "Unknown"
             print(f"{researcher['name']} not found!")
     
     write_json(out_file, researchers)
