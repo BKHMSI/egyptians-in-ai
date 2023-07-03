@@ -3,7 +3,7 @@
         "name": "Mona Diab",
         "affliation": "Meta",
         "position": "Lead Responsible AI Research Scientist",
-        "hindex": 53,
+        "hindex": 54,
         "photo": "./assets/images/mona-diab.jpeg",
         "scholar": "https://scholar.google.com/citations?user=-y6SIhQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
@@ -22,7 +22,7 @@
         "name": "Abdelrahman Mohamed",
         "affliation": "Rembrand",
         "position": "Co-Founder",
-        "hindex": 43,
+        "hindex": 46,
         "photo": "./assets/images/abdelrahman-mohamed.jpeg",
         "scholar": "https://scholar.google.ca/citations?user=tJ_PrzgAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/abdel-rahman-mohamed-a5808210/",
@@ -39,7 +39,7 @@
         "name": "Samhaa R. El-Beltagy",
         "affliation": "New Giza University",
         "position": "Dean of the School of Information Technology",
-        "hindex": 23,
+        "hindex": 25,
         "photo": "./assets/images/samhaa-el-beltagy.jpeg",
         "scholar": "https://scholar.google.com/citations?user=xdz-3qgAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/samhaa-el-beltagy-b410a530",
@@ -57,7 +57,7 @@
         "name": "Kareem Darwish",
         "affliation": "aiXplain",
         "position": "Principal Scientist",
-        "hindex": 41,
+        "hindex": 42,
         "photo": "./assets/images/kareem-darwish.jpeg",
         "scholar": "https://scholar.google.com/citations?user=y7tlR6UAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/kareem-darwish-788b9125",
@@ -1246,6 +1246,103 @@
             "Recommender Systems",
             "Graph Mining",
             "Time Series Forecasting"
+        ]
+    },
+    {
+        "name": "Shady Elbassuoni",
+        "affliation": "American University of Beirut",
+        "position": "Associate Professor",
+        "hindex": 23,
+        "photo": "./assets/images/shady-elbassuoni.jpg",
+        "scholar": "https://scholar.google.com/citations?user=Fe8iIHMAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Natural Language Processing",
+            "Computer Vision",
+            "Information Retrieval",
+            "Public Health and Medicine"
+        ]
+    },
+    {
+        "name": "Noha Radwan",
+        "affliation": "Inceptive",
+        "position": "Researcher",
+        "hindex": 11,
+        "photo": "./assets/images/noha-radwan.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=g98QcZUAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer vision",
+            "Deep learning"
+        ]
+    },
+    {
+        "name": "Radwa ElShawi",
+        "affliation": "Tartu university",
+        "position": "Associate Professor",
+        "hindex": 17,
+        "photo": "./assets/images/radwa-elshawi.jpeg",
+        "scholar": "https://scholar.google.de/citations?user=RD5PdpwAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "https://radwaelshawi.cs.ut.ee/",
+        "twitter": "",
+        "interests": [
+            "Explainable AI",
+            "AutoML",
+            "health informatics"
+        ]
+    },
+    {
+        "name": "Ramy Hussein",
+        "affliation": "Stanford University",
+        "position": "Machine Learning Researcher",
+        "hindex": 17,
+        "photo": "./assets/images/ramy-hussein.jpeg",
+        "scholar": "https://scholar.google.ca/citations?user=lc3lgegAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ramy-hussein",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Artificial Intelligence",
+            "Computer Vision",
+            "Signal/Image Processing",
+            "Medical Imaging"
+        ]
+    },
+    {
+        "name": "Sarah Adel Bargal",
+        "affliation": "Georgetown University",
+        "position": "Professor",
+        "hindex": 16,
+        "photo": "./assets/images/sarah-adel-bargal.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=zjlFcrEAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer vision",
+            "Deep Learning"
+        ]
+    },
+    {
+        "name": "Badr AlKhamissi",
+        "affliation": "EPFL",
+        "position": "PhD Student",
+        "hindex": 5,
+        "photo": "./assets/images/badr.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=0l9UHtQAAAAJ&hl=en&authuser=1",
+        "linkedin": "https://linkedin.com/in/bkhmsi",
+        "website": "https://bkhmsi.github.io",
+        "twitter": "https://twitter.com/bkhmsi",
+        "interests": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Computational Neuroscience",
+            "Computer Vision"
         ]
     }
 ]
