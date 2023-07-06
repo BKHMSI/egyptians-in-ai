@@ -1,0 +1,133 @@
+<div class="row" style="margin-top: 5em; margin-bottom: 5em;">
+
+    <p>
+        Welcome to Egyptian AI, a website dedicated to showcasing the profiles of prominent Egyptian researchers in the
+        field of Artificial Intelligence.
+        If you believe that someone deserving is missing from our list, we welcome your suggestions.
+        To be considered for inclusion, the only criteria is that the individual must have an h-index of 5 or higher, as
+        recorded on their Google Scholar profile.
+        You can submit your suggestion by filling out <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdLaYBQyOzI5gnlGzwOki3b1TJtFjLUeHUKxkGtXQDhHdSreg/viewform?usp=sf_link">this
+            form</a>, or request updates for existing profiles.
+        We hope that you find our website informative and inspiring, and we invite you to explore the profiles of our
+        featured researchers.
+        To date, we have included <strong> {{ profiles.length }} </strong> profiles.
+        Please note, the list is randomly shuffled every time the page is refreshed.
+        Check this <a href="https://medium.com/@bkhmsi/egyptians-in-ai-research-1ff64c78cc5b">Blog Post</a> to read
+        about
+        the motivation behind building this website.
+    </p>
+
+
+    <div id="sort-container" class="row">
+        <div class="col-lg-2 col-md-12 col-sm-12">
+            <a class="btn btn-outline-primary w-100 title" target="_blank"
+                href="https://docs.google.com/forms/d/e/1FAIpQLSdLaYBQyOzI5gnlGzwOki3b1TJtFjLUeHUKxkGtXQDhHdSreg/viewform?usp=sf_link">
+                <i class="fa fa-pen"></i> Nominate Someone
+            </a>
+        </div>
+
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <div class="col-md-12">
+                <div class="search">
+                    <i class="fa fa-search"></i>
+                    <input type="text" class="form-control" (keyup)="filterProfiles($event)"
+                        placeholder="Search By Name">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-1 col-md-12 col-sm-12">
+            <button class="btn btn-outline-secondary sort-button w-100 title" (click)="sortAZ()">
+                <i class="fas fa-sort-alpha-down"></i> AZ
+            </button>
+        </div>
+        <div class="col-lg-2 col-md-12 col-sm-12">
+            <button class="btn btn-outline-success sort-button w-100 title" (click)="sortHIndex()">
+                <i class="fa-solid fa-arrow-down-9-1"></i> h-Index
+            </button>
+        </div>
+        <div class="col-lg-2 col-md-12 col-sm-12">
+            <button class="btn btn-outline-warning sort-button w-100 title"
+                (click)="sortCitations()">
+                <i class="fa-solid fa-arrow-down-9-1"></i> Citations
+            </button>
+        </div>
+        <div class="col-lg-1 col-md-12 col-sm-12 title">
+            <button class="btn btn-outline-danger sort-button w-100" (click)="sortShuffle()">
+                <i class="fas fa-shuffle"></i>
+            </button>
+        </div>
+    </div>
+
+    <details style="margin-bottom:1rem" class="w-100">
+        <button class="btn btn-link sort-button" (click)="clearAllInterests()">
+            Clear
+        </button>
+        <button class="btn btn-link sort-button" (click)="checkAllInterests()">
+            Check All
+        </button>
+        <summary>Filter by Research Interests</summary>
+        <div class="form-group">
+            <div *ngFor="let interest of rinterests | keyvalue" class="form-check">
+                <input class="form-check-input" id="{{interest.key}}Checkbox" type="checkbox" value="{{interest.key}}"
+                    (change)="filterInterests()" [(ngModel)]="rinterests[interest.key]">
+                <label class="form-check-label" for="{{interest.key}}Checkbox">{{interest.key}}
+                    ({{rinterestsFreq[interest.key]}})</label>
+            </div>
+        </div>
+    </details>
+
+
+    <div style="width: 100%; margin: auto;">
+        <div *ngFor="let researcher of researchers" class="col-lg-2 col-md-6 col-sm-12 rgrid">
+            <a href="#{{researcher.name}}">
+                <div class="card click-to-top"
+                    style="background-color:whitesmoke; border-width: 0.01px; border-radius: 0;">
+                    <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="40" height="40"
+                        alt="{{ researcher.name }}" style="margin: 0.5rem;">
+                    <span>{{ researcher.name }}</span>
+                </div>
+            </a>
+        </div>
+    </div>
+
+    <hr class="mt-3 mb-3" />
+
+    <div *ngFor="let researcher of researchers" class="col-lg-3 col-md-6 col-sm-12 mb-4" [hidden]="!en_active">
+        <div class="card" style="background-color:whitesmoke;" id="{{ researcher.name }}">
+            <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="160" height="160"
+                alt="{{ researcher.name }}" style="margin: 0.5rem;">
+            <div class="card-body" style="background-color: #EAECEE;">
+                <h4 class="card-title mb-0" style="font-size:1.4rem"> {{researcher.name}} </h4>
+                <h5 class="card-subtitle mb-2 text-muted"> {{researcher.affiliation}} </h5>
+                <h6 class="card-text" style="min-height: 2.3em;"> {{researcher.position}} </h6>
+                <span [hidden]="researcher.hindex==0" class="card-text" style="font-size: 0.8rem;">
+                    h-index: {{researcher.hindex}} |
+                    Citations: {{researcher.citedby | number}}
+                </span>
+                <span [hidden]="researcher.hindex!=0" class="card-text" style="font-size: 0.8rem;"> h-index: - </span>
+                <div style="min-height: 7em;">
+                    <strong>Research Interests:</strong>
+                    <p class="card-text" style="font-size: 0.8rem;"> {{researcher.interests.toString()}} </p>
+                </div>
+                <hr>
+                <p class="card-text text-center">
+                    <a [hidden]="researcher.website==''" href="{{researcher.website}}" target="_blank"><i
+                            class="fas fa-globe"
+                            style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+                    <a [hidden]="researcher.scholar==''" href="{{researcher.scholar}}" target="_blank"><i
+                            class="fas fa-graduation-cap"
+                            style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+                    <a [hidden]="researcher.twitter==''" href="{{researcher.twitter}}" target="_blank"><i
+                            class="fab fa-twitter"
+                            style="font-size: 1.5rem; color: black; padding-right: 0.5rem;"></i></a>
+                    <a [hidden]="researcher.linkedin==''" href="{{researcher.linkedin}}" target="_blank"><i
+                            class="fab fa-linkedin"
+                            style="font-size: 1.5rem; color: black; padding-left: 0.5rem;"></i></a>
+                </p>
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,23 @@
+.search .fa-search {
+    position: absolute;
+    top: 12px;
+    right: 16px;
+}
+
+.sort-button {
+    float: left;
+}
+
+.nav-item  {
+    float:left; 
+    color: whitesmoke;
+    padding-right: 2em;
+}
+
+.nav-item span {
+    cursor: pointer;
+}
+
+.nav-item span:hover, .nav-item a:hover {
+    opacity: 50%;
+}

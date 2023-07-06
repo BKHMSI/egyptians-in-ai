@@ -1,6 +1,6 @@
 export interface IResearcher{
     name: string;
-    affliation: string;
+    affiliation: string;
     position: string;
     hindex: number;
     citedby: number;

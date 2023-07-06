@@ -11,7 +11,7 @@ def read_json(file):
 
 def write_json(file, data):
     with open(file, 'w', encoding="utf-8") as fout:
-        json.dump(data, fout)
+        json.dump(data, fout, ensure_ascii=False)
 
 if __name__ == "__main__":
 
