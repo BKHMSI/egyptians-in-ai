@@ -17,7 +17,7 @@ def read_json(path):
 if __name__ == "__main__":
 
     out_file = "./assets/researchers_update.json"
-    researchers = read_json("./assets/researchers.json")
+    researchers = read_json("./assets/researchers_en.json")
 
     timestamp = time.time()
     # Convert the timestamp to a datetime object
@@ -40,7 +40,7 @@ if __name__ == "__main__":
         else:
             if "lastupdate" not in researcher:
                 researcher["lastupdate"] = ""
-                researcher["citedby"] = "Unknown"
+                researcher["citedby"] = 0
             print(f"{researcher['name']} not found!")
     
     write_json(out_file, researchers)

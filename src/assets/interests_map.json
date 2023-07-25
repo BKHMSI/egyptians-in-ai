@@ -1,0 +1,276 @@
+{
+    "Adaptation Models": [
+        "Adaptation Models"
+    ],
+    "Affective Computing": [
+        "Affective Computing",
+        "Emotion AI"
+    ],
+    "Applied ML": [
+        "Applied Machine Learning"
+    ],
+    "Arabic NLP": [
+        "Arabic NLP"
+    ],
+    "AutoML": [
+        "AutoML"
+    ],
+    "Autonomous Driving": [
+        "Autonomous Driving",
+        "Autonomous Vehicles Perception and Path Planning",
+        "Autonomous and Connected Vehicles"
+    ],
+    "Big Data": [
+        "Big Data",
+        "Big Data Analytics"
+    ],
+    "Biomedical Informatics": [
+        "Biomedical Informatics"
+    ],
+    "Biomedical Signal Processing": [
+        "Biomedical Signal Processing"
+    ],
+    "Biometrics": [
+        "Biometric",
+        "Biometrics"
+    ],
+    "Combinatorial Optimization": [
+        "Combinatorial Optimization"
+    ],
+    "Computational Creativity": [
+        "Computational Creativity"
+    ],
+    "Computational Finance": [
+        "Computational Finance"
+    ],
+    "Computational Linguistics": [
+        "Computational Linguistics"
+    ],
+    "Computational Neuroscience": [
+        "Computational Neuroscience"
+    ],
+    "Computational Social Science": [
+        "Computational Social Science"
+    ],
+    "Computer Vision": [
+        "Computer Vision",
+        "Computer vision",
+        "Machine Vision",
+        "Signal/Image Processing",
+        "Handwriting Recognition"
+    ],
+    "Congestion Pricing": [
+        "Congestion Pricing"
+    ],
+    "Content Analysis": [
+        "Content Analysis"
+    ],
+    "Conversational AI": [
+        "Conversational AI"
+    ],
+    "Data Mining": [
+        "Data Management and Analysis",
+        "Data Mining",
+        "Data Science",
+        "Mining Social Media",
+        "Text Mining"
+    ],
+    "Deep Learning": [
+        "Deep Learning",
+        "Deep learning"
+    ],
+    "Drones": [
+        "Drones"
+    ],
+    "Evacuation Optimization": [
+        "Evacuation Optimization"
+    ],
+    "Explainable AI": [
+        "Explainable AI"
+    ],
+    "Few-Shot Learning": [
+        "Few-Shot Learning"
+    ],
+    "Forecasting": [
+        "Forecasting",
+        "Time Series Forecasting"
+    ],
+    "Geometric Deep Learning": [
+        "Geometric Deep Learning"
+    ],
+    "Geospatial Machine Learning": [
+        "Geospatial Machine Learning"
+    ],
+    "Graph Learning": [
+        "Graph Learning",
+        "Graph Mining",
+        "Graph Neural Networks"
+    ],
+    "Graphics": [
+        "Computer Graphics",
+        "Graphics"
+    ],
+    "Human Language Technology": [
+        "Human Language Technology"
+    ],
+    "Human Perception": [
+        "Human Perception"
+    ],
+    "Image Analysis": [
+        "Image Analysis",
+        "Image Processing",
+        "Image and Signal Processing"
+    ],
+    "Industrial AI": [
+        "Industrial AI"
+    ],
+    "Information Extraction": [
+        "Information Extraction"
+    ],
+    "Information Retrieval": [
+        "Information Retrieval"
+    ],
+    "Information and Complexity": [
+        "Information and Complexity"
+    ],
+    "IoT": [
+        "IoT",
+        "Cognitive IoT"
+    ],
+    "Knowledge Engineering": [
+        "Knowledge Engineering",
+        "Knowledge Management"
+    ],
+    "LLMs": [
+        "LLMs",
+        "Large Language Models"
+    ],
+    "Low-Resource Languages": [
+        "Low-Resource Languages"
+    ],
+    "Machine Intelligence": [
+        "Machine Intelligence"
+    ],
+    "Reinforcement Learning": [
+        "Reinforcement Learning"
+    ],
+    "Machine Learning": [
+        "Machine Learning",
+        "Machine Learning for Database Systems",
+        "Self-Supervised Learning",
+        "Semi-supervised Learning",
+        "Unsupervised and Semi-Supervised Learning",
+        "Computational Intelligence"
+    ],
+    "Machine Translation": [
+        "Machine Translation"
+    ],
+    "Mathematical and Statistical Modelling": [
+        "Mathematical and Statistical Modelling"
+    ],
+    "Medical Informatics": [
+        "Biomedical Informatics",
+        "Medical Image Analysis",
+        "Medical NLP",
+        "Medical Diagnosis",
+        "Medical Fraud Detection",
+        "Medical Imaging"
+    ],
+    "Metaverse": [
+        "Metaverses"
+    ],
+    "Multilingual NLP": [
+        "Multilinguality",
+        "Cross Lingual/Multilingual Processing"
+    ],
+    "Multimedia": [
+        "Multimedia"
+    ],
+    "Multimodal ML": [
+        "Multimodal Dialog",
+        "Multimodal Matching",
+        "Vision and Language"
+    ],
+    "Natural Language Processing": [
+        "NLP",
+        "Natural Language Processing",
+        "Natural Language Understanding"
+    ],
+    "Speech Processing": [
+        "Text-to-Speech",
+        "Speech Enhancement and Recognition",
+        "Speech Language Processing",
+        "Speech Processing",
+        "Speech Recognition",
+        "Speech Technology",
+        "Speech"
+    ],
+    "Navigation": [
+        "Navigation"
+    ],
+    "Neural Networks": [
+        "Neural Networks"
+    ],
+    "Optimization": [
+        "Optimization"
+    ],
+    "Swarm Optimization": [
+        "Swarm Optimization"
+    ],
+    "Pattern Analysis": [
+        "Pattern Analysis",
+        "Pattern Classification",
+        "Pattern Recognition"
+    ],
+    "Recommender Systems": [
+        "Personalization",
+        "Recommendation Engines",
+        "Recommendation Systems",
+        "Recommender Systems"
+    ],
+    "Phonology": [
+        "Phonology"
+    ],
+    "Probability and Statistics": [
+        "Probability and Statistics"
+    ],
+    "Public Health and Medicine": [
+        "Public Health and Medicine"
+    ],
+    "Quantum Computing": [
+        "Quantum Computing"
+    ],
+    "Responsible AI": [
+        "Responsible AI"
+    ],
+    "Robotics": [
+        "Robotics"
+    ],
+    "Semantic Annotation": [
+        "Semantic Annotation"
+    ],
+    "Semantic Parsing": [
+        "Semantic Parsing",
+        "Semantic Search"
+    ],
+    "Sentiment Analysis": [
+        "Sentiment Analysis"
+    ],
+    "Smart Mobility": [
+        "Smart Mobility",
+        "Intelligent Transportation Systems",
+        "Traffic Control and Management"
+    ],
+    "Software Engineering": [
+        "Software Engineering"
+    ],
+    "User Modeling": [
+        "User Modeling"
+    ],
+    "Zero-Shot Learning": [
+        "Zero-Shot Learning"
+    ],
+    "Health Informatics": [
+        "health informatics"
+    ]
+}

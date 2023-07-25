@@ -16,7 +16,7 @@ def write_json(file, data):
 if __name__ == "__main__":
 
     out_file = "./assets/researchers_update.json"
-    researchers = read_json('./assets/researchers.json')
+    researchers = read_json('./assets/researchers_en.json')
     responses = pd.read_csv('./assets/researchers.csv', header=0)
     new_researchers = []
 
@@ -38,7 +38,7 @@ if __name__ == "__main__":
                 print(f"> [Add] {name}")
                 new_researchers += [{
                     "name": name,
-                    "affliation": response["Affiliation"].strip(),
+                    "affiliation": response["Affiliation"].strip(),
                     "position": response["Position"].strip(),
                     "hindex": -1,
                     "photo": photo_link if not is_nan(photo_link) else "./assets/images/default.jpg",
@@ -46,7 +46,9 @@ if __name__ == "__main__":
                     "linkedin": "" if is_nan(linkedin) else linkedin,
                     "website": "" if is_nan(website) else website,
                     "twitter": "" if is_nan(twitter) else twitter,
-                    "interests": interests
+                    "interests": interests,
+                    "citedby": 0,
+                    "lastupdate": ""
                 }]
         else:
             name = response["Name.1"].strip()
@@ -57,4 +59,5 @@ if __name__ == "__main__":
             website = response["Personal Website.1"]
             interests = [interest.strip() for interest in response["Research Interests.1"].split(",")] if not pd.isna(response["Research Interests.1"]) else []
             print(f"> [Update] {name}")
+            
     write_json(out_file, new_researchers)
