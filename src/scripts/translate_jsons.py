@@ -9,7 +9,7 @@ from populate import read_json, write_json
 
 MAX_ATTEMPTS = 10
 API_KEY = os.getenv("OPENAI_API_SOCIAL")
-API_ORG = "org-Jj29M8wPzNI1sLwXW3tuwhwI"
+API_ORG = os.getenv("OPENAI_API_ORG")
 openai.organization = API_ORG
 openai.api_key = API_KEY
 

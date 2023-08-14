@@ -1,21 +1,39 @@
+<script>
+  $(document).ready(function() {
+    $(".dropdown-toggle").dropdown();
+});
+</script>
+
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" [hidden]="!en_active">
   <div class="container">
     <a class="navbar-brand" style="font-size: 2em">Egyptians in AI Research</a>
     <div class="nav-items" style="width: 50%">
       <div class="nav-item">
+        <i class="fa-solid fa-language"></i>&nbsp;
         <span (click)="changeLang('en')">English</span>
         |
         <span (click)="changeLang('ar')">عربي</span>
       </div>
       <div class="nav-item">
-        <span>      
-          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai"> <i class="fa-brands fa-github"></i> GitHub</a>
+        <span>
+          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai"> <i class="fa-brands fa-github"></i>
+            GitHub</a>
         </span>
       </div>
       <div class="nav-item">
-        <span>      
-          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b"> <i class="fa-brands fa-medium"></i> Blog Post</a>
+        <span>
+          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b"> <i
+              class="fa-brands fa-medium"></i> Blog Post</a>
         </span>
+      </div>
+      <div class="nav-item dropdown" ngbDropdown>
+        <span class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false" ngbDropdownToggle>
+          <i class="fa-solid fa-globe"></i> X in Y Websites
+        </span>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" ngbDropdownMenu>
+          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/" target="_blank">Moroccans in AI</a>
+        </div>
       </div>
     </div>
   </div>
@@ -25,23 +43,33 @@
   <div class="container">
     <a class="navbar-brand" style="font-size: 2em">المصريون في الذكاء الاصطناعي</a>
     <div class="nav-items">
+      <div class="nav-item dropdown" ngbDropdown>
+        <span class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false" ngbDropdownToggle>
+          <i class="fa-solid fa-globe"></i> X in Y Websites
+        </span>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown" ngbDropdownMenu>
+          <a ngbDropdownItem class="dropdown-item" href="https://mohamedelbaha.github.io/moroccans-in-ai/" target="_blank">Moroccans in AI</a>
+        </div>
+      </div>
       <div class="nav-item">
-        <span>      
-          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b"> 
+        <span>
+          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b">
             Blog Post
-            <i class="fa-brands fa-medium"></i> 
+            <i class="fa-brands fa-medium"></i>
           </a>
         </span>
       </div>
       <div class="nav-item">
-        <span>      
-          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai"> 
+        <span>
+          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai">
             GitHub
-            <i class="fa-brands fa-github"></i> 
+            <i class="fa-brands fa-github"></i>
           </a>
         </span>
       </div>
       <div class="nav-item">
+        <i class="fa-solid fa-language"></i>&nbsp;
         <span (click)="changeLang('en')">English</span>
         |
         <span (click)="changeLang('ar')">عربي</span>
