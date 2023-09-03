@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Cairo
+- Font Author: Copyright 2009 The Cairo Project Authors (https://github.com/Gue3bara/Cairo)
+- Font Source: http://fonts.gstatic.com/s/cairo/v28/SLXgc1nY6HkvangtZmpQdkhzfH5lkSs2SgRjCAGMQ1z0hOA-W1ToLQ-HmkA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
