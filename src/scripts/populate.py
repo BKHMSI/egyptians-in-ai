@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+from datetime import datetime
 
 def is_nan(string):
     return string != string
@@ -24,16 +25,21 @@ if __name__ == "__main__":
     new_researchers = []
     to_update_researchers = []
 
+    last_update = datetime.strptime("8/30/2023", "%m/%d/%Y")
+
     names = [entry["name"] for entry in researchers]
 
     for idx in range(len(responses)):
         response = responses.iloc[idx]
         add_flag = response["Add or Update"] == "Add"
+        timestamp = datetime.strptime(response["Timestamp"], "%m/%d/%Y %H:%M:%S")
+        if timestamp < last_update:
+            continue
 
         if add_flag:
             name = response["Name"].strip()
             photo_link = response["Personal Photo Link"]
-            scholar = str(response["Google Scholar Profile"]).strip()
+            scholar = str(response["Google Scholar Profile Link"]).strip()
             linkedin = response["LinkedIn Profile"]
             twitter = response["Twitter Profile"]
             website = response["Personal Website"]
@@ -57,7 +63,7 @@ if __name__ == "__main__":
         else:
             name = response["Name.1"].strip()
             photo_link = response["Personal Photo Link.1"]
-            scholar = str(response["Google Scholar Profile.1"]).strip()
+            scholar = str(response["Google Scholar Profile"]).strip()
             linkedin = response["LinkedIn Profile.1"]
             twitter = response["Twitter Profile.1"]
             website = response["Personal Website.1"]

@@ -1,5 +1,14 @@
+/* 
+Color Scheme
+Firefly: #091B2B
+Cashmere: #E7C29C
+Eastern Blue: #20A8A5
+Elm: #1C8394
+*/
+
 nav {
-    background-color: #922B21;
+    /* background-color: #922B21; */
+    background-color: #091B2B;
 }
 
 footer a {
@@ -12,7 +21,8 @@ footer span {
 
 .footer {
     position: fixed;
-    background-color: #2C3E50;
+    /* background-color: #2C3E50; */
+    background-color: #1C8394;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -103,4 +113,10 @@ div.click-to-top:hover span {
         width: 14%;
         display: inline-block;
     }
+}
+
+.edit-btn {
+    float:right;
+    color:gray;
+    padding: 0.5rem;
 }

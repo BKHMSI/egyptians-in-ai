@@ -64,4 +64,17 @@ export class ArabicComponent implements OnInit {
     }
     this.researchers = this.profiles;
   }
+
+  editProfile(researcher:IResearcher) {
+    let link_template = "https://docs.google.com/forms/d/e/1FAIpQLSdLaYBQyOzI5gnlGzwOki3b1TJtFjLUeHUKxkGtXQDhHdSreg/viewform?usp=pp_url&entry.186050192=Update&entry.1945362270={name}&entry.843703109={affiliation}&entry.1728443742={position}&entry.113990162={gscholar}&entry.1193057171={linkedin}&entry.2083985192={twitter}&entry.1542622457={website}&entry.2030031116={research_interests}"
+    link_template = link_template.replace("{name}", researcher.name)
+    link_template = link_template.replace("{affiliation}", researcher.affiliation)
+    link_template = link_template.replace("{position}", researcher.position)
+    link_template = link_template.replace("{gscholar}", researcher.scholar)
+    link_template = link_template.replace("{linkedin}", researcher.linkedin)
+    link_template = link_template.replace("{twitter}", researcher.twitter)
+    link_template = link_template.replace("{website}", researcher.website)
+    link_template = link_template.replace("{research_interests}", researcher.interests.join(','))
+    window.open(link_template, "_blank")
+  }
 }

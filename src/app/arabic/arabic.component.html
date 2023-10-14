@@ -20,9 +20,6 @@ Google Scholar.
         عن السبب وراء بناء هذا الموقع.
     </p>
 
-
-
-
     <div id="sort-container" class="row" style="direction: rtl;">
         <div class="col-lg-2 col-md-12 col-sm-12">
             <a class="btn btn-outline-primary w-100 title" target="_blank"
@@ -101,6 +98,7 @@ Google Scholar.
 
     <div *ngFor="let researcher of researchers" class="col-lg-3 col-md-6 col-sm-12 mb-4" [hidden]="!en_active">
         <div class="card" style="background-color:whitesmoke;" id="{{ researcher.name }}">
+            <div><a (click)="editProfile(researcher)" class="edit-btn"><i class="fa-solid fa-pencil"></i></a></div>
             <img src="{{ researcher.photo }}" class="rounded-circle mx-auto" width="160" height="160"
                 alt="{{ researcher.name }}" style="margin: 0.5rem;">
             <div class="card-body" style="background-color: #EAECEE; direction: rtl;">

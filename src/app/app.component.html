@@ -6,8 +6,11 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" [hidden]="!en_active">
   <div class="container">
-    <a class="navbar-brand" style="font-size: 2em">Egyptians in AI Research</a>
-    <div class="nav-items" style="width: 50%">
+    <a class="navbar-brand" style="font-size: 2em">
+      <img src="./assets/logo.jpeg" alt="logo" width="64" height="64"/>
+      Egyptians in AI Research
+    </a>
+    <div class="nav-items" style="width: 60%">
       <div class="nav-item">
         <i class="fa-solid fa-language"></i>&nbsp;
         <span (click)="changeLang('en')">English</span>
@@ -16,14 +19,20 @@
       </div>
       <div class="nav-item">
         <span>
-          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai"> <i class="fa-brands fa-github"></i>
+          <a class="nav-link" href="https://github.com/bkhmsi/egyptians-in-ai" target="_blank"> <i class="fa-brands fa-github"></i>
             GitHub</a>
         </span>
       </div>
       <div class="nav-item">
         <span>
-          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b"> <i
+          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b" target="_blank"> <i
               class="fa-brands fa-medium"></i> Blog Post</a>
+        </span>
+      </div>
+      <div class="nav-item">
+        <span>
+          <a class="nav-link" href="https://www.youtube.com/watch?v=PtdyHfpzodg" target="_blank"> <i
+              class="fa-solid fa-person-chalkboard"></i> TEDx Talk</a>
         </span>
       </div>
       <div class="nav-item dropdown" ngbDropdown>
@@ -58,7 +67,13 @@
       </div>
       <div class="nav-item">
         <span>
-          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b">
+          <a class="nav-link" href="https://www.youtube.com/watch?v=PtdyHfpzodg" target="_blank"> <i
+              class="fa-solid fa-person-chalkboard"></i> TEDx Talk</a>
+        </span>
+      </div>
+      <div class="nav-item">
+        <span>
+          <a class="nav-link" href="https://bkhmsi.medium.com/egyptians-in-ai-research-1ff64c78cc5b" target="_blank">
             Blog Post
             <i class="fa-brands fa-medium"></i>
           </a>
@@ -66,7 +81,7 @@
       </div>
       <div class="nav-item">
         <span>
-          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai">
+          <a class="nav-link" href="https://github.com/BKHMSI/egyptians-in-ai" target="_blank">
             GitHub
             <i class="fa-brands fa-github"></i>
           </a>
@@ -92,7 +107,7 @@
   <footer class="footer mt-auto py-3">
     <div class="container">
       <span> Developed and Maintained by <a href="https://bkhmsi.github.io">Badr
-          AlKhamissi</a> | Last Update: 30 August 2023</span>
+          AlKhamissi</a> | Last Update: 14 October 2023</span>
       <span style="float: right"><a href="#"> Back to Top <i class="fas fa-arrow-up"></i>
         </a> </span>
     </div>
