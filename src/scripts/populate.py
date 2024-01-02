@@ -1,4 +1,5 @@
 import json
+import numpy as np
 import pandas as pd
 from datetime import datetime
 
@@ -35,8 +36,8 @@ if __name__ == "__main__":
         timestamp = datetime.strptime(response["Timestamp"], "%m/%d/%Y %H:%M:%S")
         if timestamp < last_update:
             continue
-
-        if add_flag:
+        
+        if add_flag and not pd.isna(response["Name"]):
             name = response["Name"].strip()
             photo_link = response["Personal Photo Link"]
             scholar = str(response["Google Scholar Profile Link"]).strip()
@@ -60,7 +61,7 @@ if __name__ == "__main__":
                     "citedby": 0,
                     "lastupdate": ""
                 }]
-        else:
+        elif not pd.isna(response["Name.1"]):
             name = response["Name.1"].strip()
             photo_link = response["Personal Photo Link.1"]
             scholar = str(response["Google Scholar Profile"]).strip()

@@ -19,7 +19,7 @@ def read_json(path):
 if __name__ == "__main__":
 
     out_file = "./assets/researchers_new.json"
-    researchers = read_json("./assets/researchers_new.json")
+    researchers = read_json("./assets/researchers.json")
     new_researchers = []
 
     timestamp = time.time()

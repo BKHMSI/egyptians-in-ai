@@ -3,7 +3,7 @@
         "name": "Mona Diab",
         "affiliation": "CMU",
         "position": "Director of the Language Technologies Institute",
-        "hindex": 55,
+        "hindex": 56,
         "photo": "./assets/images/mona-diab.jpeg",
         "scholar": "https://scholar.google.com/citations?user=-y6SIhQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mona-diab-55946614/",
@@ -17,8 +17,8 @@
             "Cross Lingual/Multilingual Processing",
             "Machine Learning"
         ],
-        "citedby": 16301,
-        "lastupdate": "2023-10-14"
+        "citedby": 17441,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Abdelrahman Mohamed",
@@ -36,8 +36,8 @@
             "Speech Language Processing",
             "Machine Learning"
         ],
-        "citedby": 53168,
-        "lastupdate": "2023-10-14"
+        "citedby": 56172,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Samhaa R. El-Beltagy",
@@ -56,14 +56,14 @@
             "Sentiment Analysis",
             "Semantic Annotation"
         ],
-        "citedby": 2778,
-        "lastupdate": "2023-10-14"
+        "citedby": 2854,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Kareem Darwish",
         "affiliation": "aiXplain",
         "position": "Principal Scientist",
-        "hindex": 43,
+        "hindex": 44,
         "photo": "./assets/images/kareem-darwish.jpeg",
         "scholar": "https://scholar.google.com/citations?user=y7tlR6UAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/kareem-darwish-788b9125",
@@ -75,14 +75,14 @@
             "Computational Social Science",
             "Natural Language Processing"
         ],
-        "citedby": 6173,
-        "lastupdate": "2023-10-14"
+        "citedby": 6408,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Rafea",
         "affiliation": "American University in Cairo",
         "position": "Professor",
-        "hindex": 28,
+        "hindex": 29,
         "photo": "./assets/images/ahmed-rafea.jpeg",
         "scholar": "https://scholar.google.com/citations?user=szDaQLYAAAAJ&hl=en",
         "linkedin": "",
@@ -95,8 +95,8 @@
             "Text Mining",
             "Knowledge Engineering"
         ],
-        "citedby": 3404,
-        "lastupdate": "2023-10-14"
+        "citedby": 3524,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohsen Rashwan",
@@ -114,8 +114,8 @@
             "Natural Language Processing",
             "Human Language Technology"
         ],
-        "citedby": 1510,
-        "lastupdate": "2023-10-14"
+        "citedby": 1569,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Rana el Kaliouby",
@@ -134,8 +134,8 @@
             "Computer Vision",
             "Machine Learning"
         ],
-        "citedby": 7011,
-        "lastupdate": "2023-10-14"
+        "citedby": 7165,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Afify",
@@ -155,8 +155,8 @@
             "Computational Linguistics",
             "Phonology"
         ],
-        "citedby": 1058,
-        "lastupdate": "2023-10-14"
+        "citedby": 1116,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hany Hassan Awadalla",
@@ -175,8 +175,8 @@
             "Deep Learning",
             "Semi-supervised Learning"
         ],
-        "citedby": 3232,
-        "lastupdate": "2023-10-14"
+        "citedby": 3417,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Tawfik",
@@ -195,14 +195,14 @@
             "Deep Learning",
             "Text-to-Speech"
         ],
-        "citedby": 416,
-        "lastupdate": "2023-10-14"
+        "citedby": 424,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Moustafa",
         "affiliation": "Amazon",
         "position": "Applied Science Manager",
-        "hindex": 18,
+        "hindex": 19,
         "photo": "./assets/images/mohamed-moustafa.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=QGdReUEAAAAJ",
         "linkedin": "https://www.linkedin.com/in/mohamed-n-moustafa/",
@@ -215,8 +215,8 @@
             "Biometrics",
             "Deep Learning"
         ],
-        "citedby": 1642,
-        "lastupdate": "2023-10-14"
+        "citedby": 1733,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Wael Hamza",
@@ -235,14 +235,14 @@
             "Natural Language Understanding",
             "Speech"
         ],
-        "citedby": 2970,
-        "lastupdate": "2023-10-14"
+        "citedby": 3067,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Iz Beltagy",
         "affiliation": "Allen Institute for AI",
         "position": "Senior Research Scientist",
-        "hindex": 27,
+        "hindex": 29,
         "photo": "./assets/images/iz-beltagy.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=jkV6H1gAAAAJ",
         "linkedin": "https://www.linkedin.com/in/beltagy",
@@ -252,8 +252,8 @@
             "Natural Language Processing",
             "Machine Learning"
         ],
-        "citedby": 10260,
-        "lastupdate": "2023-10-14"
+        "citedby": 11639,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Waleed Ammar",
@@ -270,14 +270,14 @@
             "Machine Learning",
             "Semantic Parsing"
         ],
-        "citedby": 4376,
-        "lastupdate": "2023-10-14"
+        "citedby": 4560,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed H. Awadallah",
         "affiliation": "Microsoft Research",
         "position": "Senior Principal Research Manager",
-        "hindex": 47,
+        "hindex": 48,
         "photo": "./assets/images/ahmed-awadallah.jpeg",
         "scholar": "https://scholar.google.com/citations?user=sNGk-9MAAAAJ&hl=en",
         "linkedin": "",
@@ -288,8 +288,8 @@
             "Machine Learning",
             "Information Retrieval"
         ],
-        "citedby": 10220,
-        "lastupdate": "2023-10-14"
+        "citedby": 10802,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hala Mostafa",
@@ -304,8 +304,8 @@
         "interests": [
             "Machine Learning"
         ],
-        "citedby": 407,
-        "lastupdate": "2023-10-14"
+        "citedby": 409,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Baher Abdulhai",
@@ -323,8 +323,8 @@
             "Evacuation Optimization",
             "Congestion Pricing"
         ],
-        "citedby": 5651,
-        "lastupdate": "2023-10-14"
+        "citedby": 5810,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Yaser S. Abu-Mostafa",
@@ -362,14 +362,14 @@
             "Deep Learning",
             "Natural Language Processing"
         ],
-        "citedby": 2594,
-        "lastupdate": "2023-10-14"
+        "citedby": 2697,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Medhat Moussa",
         "affiliation": "University of Guelph",
         "position": "Professor",
-        "hindex": 22,
+        "hindex": 23,
         "photo": "./assets/images/medhat-moussa.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=x-2sUG4AAAAJ",
         "linkedin": "https://www.linkedin.com/in/medhat-moussa-3a58713",
@@ -381,14 +381,14 @@
             "Machine Vision",
             "Reconfigurable Computing"
         ],
-        "citedby": 1829,
-        "lastupdate": "2023-10-14"
+        "citedby": 1894,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Khaled Shaalan",
         "affiliation": "The British University in Dubai",
         "position": "Professor",
-        "hindex": 56,
+        "hindex": 57,
         "photo": "./assets/images/khaled-shaalan.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=keLKdlgAAAAJ",
         "linkedin": "",
@@ -401,8 +401,8 @@
             "Natural Language Processing",
             "Knowledge Management"
         ],
-        "citedby": 13479,
-        "lastupdate": "2023-10-14"
+        "citedby": 14214,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ossama Emam",
@@ -422,8 +422,8 @@
             "Pattern Recognition",
             "Speech Technology"
         ],
-        "citedby": 1062,
-        "lastupdate": "2023-10-14"
+        "citedby": 1077,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Alaa Khamis",
@@ -442,14 +442,14 @@
             "Machine Learning",
             "Combinatorial Optimization"
         ],
-        "citedby": 4895,
-        "lastupdate": "2023-10-14"
+        "citedby": 5095,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Alaa Sheta",
         "affiliation": "Southern Connecticut (SCSU)",
         "position": "Professor",
-        "hindex": 31,
+        "hindex": 32,
         "photo": "./assets/images/alaa-sheta.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=x7zJsNoAAAAJ",
         "linkedin": "https://www.linkedin.com/in/alaa-sheta-30577617/",
@@ -462,14 +462,14 @@
             "Robotics",
             "Software Engineering"
         ],
-        "citedby": 3657,
-        "lastupdate": "2023-10-14"
+        "citedby": 3752,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed K. Farahat",
         "affiliation": "Hitachi America, Ltd. R&D",
         "position": "Principal Research Scientist",
-        "hindex": 19,
+        "hindex": 20,
         "photo": "./assets/images/ahmed-farahat.jpeg",
         "scholar": "https://scholar.google.com/citations?user=5kcdVaYAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/afarahat/",
@@ -480,8 +480,8 @@
             "Data Mining",
             "Industrial AI"
         ],
-        "citedby": 1875,
-        "lastupdate": "2023-10-14"
+        "citedby": 1980,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Motaz El-Saban",
@@ -497,8 +497,8 @@
             "Machine Learning",
             "Computer Vision"
         ],
-        "citedby": 2861,
-        "lastupdate": "2023-10-14"
+        "citedby": 2915,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Maher Ahmed",
@@ -514,14 +514,14 @@
             "Pattern Recognition",
             "Image Processing"
         ],
-        "citedby": 652,
-        "lastupdate": "2023-10-14"
+        "citedby": 659,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed S. Kamel",
         "affiliation": "University of Waterloo",
         "position": "Professor - Passed Away (2015)",
-        "hindex": 64,
+        "hindex": 65,
         "photo": "./assets/images/mohamed-kamel.jpeg",
         "scholar": "https://scholar.google.com/citations?hl=en&user=6Evj9YwAAAAJ",
         "linkedin": "",
@@ -534,8 +534,8 @@
             "Pattern Recognition",
             "Computational Intelligence"
         ],
-        "citedby": 22429,
-        "lastupdate": "2023-10-14"
+        "citedby": 22798,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmad Abdulkader",
@@ -567,8 +567,8 @@
             "Machine Learning",
             "Natural Language Processing"
         ],
-        "citedby": 2108,
-        "lastupdate": "2023-10-14"
+        "citedby": 2201,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed El Kholy",
@@ -585,8 +585,8 @@
             "Natural Language Processing",
             "Conversational AI"
         ],
-        "citedby": 3246,
-        "lastupdate": "2023-10-14"
+        "citedby": 3474,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Walid Magdy",
@@ -604,14 +604,14 @@
             "Data Mining",
             "Information Retrieval"
         ],
-        "citedby": 4037,
-        "lastupdate": "2023-10-14"
+        "citedby": 4254,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Ali",
         "affiliation": "QCRI",
         "position": "Principal Engineer",
-        "hindex": 24,
+        "hindex": 25,
         "photo": "./assets/images/ahmed-ali.jpeg",
         "scholar": "https://scholar.google.com/citations?user=t0gYEjAAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/ahmedali08",
@@ -620,14 +620,14 @@
         "interests": [
             "Speech Recognition"
         ],
-        "citedby": 2067,
-        "lastupdate": "2023-10-14"
+        "citedby": 2187,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Neamat El Gayar",
         "affiliation": "Heriot Watt University",
         "position": "Director & Uni Professor",
-        "hindex": 16,
+        "hindex": 17,
         "photo": "./assets/images/neamat-elgayar.jpg",
         "scholar": "https://scholar.google.com/citations?user=RHDcyz8AAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/neamat-el-gayar-07b7297a/",
@@ -639,14 +639,14 @@
             "Computational Intelligence",
             "Natural Language Processing"
         ],
-        "citedby": 1881,
-        "lastupdate": "2023-10-14"
+        "citedby": 1948,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Amir Alansary",
         "affiliation": "Jaguar Land Rover",
         "position": "ML & CV Team Lead",
-        "hindex": 21,
+        "hindex": 22,
         "photo": "./assets/images/amir-alansary.jpeg",
         "scholar": "https://scholar.google.com/citations?user=Sj11Jo8AAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/amiralansary/",
@@ -659,14 +659,14 @@
             "Autonomous Vehicles Perception and Path Planning",
             "Medical Imaging"
         ],
-        "citedby": 1603,
-        "lastupdate": "2023-10-14"
+        "citedby": 1684,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mustafa A Elattar",
         "affiliation": "Intixel & Nile University",
         "position": "Founder & Assistant Professor",
-        "hindex": 11,
+        "hindex": 12,
         "photo": "./assets/images/mustafa-elattar.png",
         "scholar": "https://scholar.google.com/citations?user=BJoskL8AAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mustafa-elattar-phd-42289112/",
@@ -677,8 +677,8 @@
             "Artificial Intelligence",
             "Image Analysis"
         ],
-        "citedby": 803,
-        "lastupdate": "2023-10-14"
+        "citedby": 880,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hesham Eraqi",
@@ -696,8 +696,8 @@
             "Deep Learning",
             "Handwriting Recognition"
         ],
-        "citedby": 809,
-        "lastupdate": "2023-10-14"
+        "citedby": 852,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Alsallab",
@@ -714,8 +714,8 @@
             "Computer Vision",
             "Natural Language Processing"
         ],
-        "citedby": 3534,
-        "lastupdate": "2023-10-14"
+        "citedby": 3859,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Gamaleldin Elsayed",
@@ -732,8 +732,8 @@
             "Computer Vision",
             "Computational Neuroscience"
         ],
-        "citedby": 2033,
-        "lastupdate": "2023-10-14"
+        "citedby": 2255,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mahmoud Abou-Nasr",
@@ -752,14 +752,14 @@
             "Reinforcement Learning",
             "Optimization"
         ],
-        "citedby": 357,
-        "lastupdate": "2023-10-14"
+        "citedby": 363,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Elhoseiny",
         "affiliation": "KAUST",
         "position": "Assistant Professor",
-        "hindex": 34,
+        "hindex": 36,
         "photo": "./assets/images/mohamed-elhoseiny.png",
         "scholar": "https://scholar.google.com/citations?user=iRBUTOAAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mohamed-elhoseiny-8a836215",
@@ -772,14 +772,14 @@
             "Computational Creativity",
             "Vision and Language"
         ],
-        "citedby": 8011,
-        "lastupdate": "2023-10-14"
+        "citedby": 9061,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Amr Ahmed",
         "affiliation": "Google",
         "position": "Senior Staff Research Scientist",
-        "hindex": 39,
+        "hindex": 40,
         "photo": "./assets/images/amr-ahmed.png",
         "scholar": "https://scholar.google.com/citations?user=ivUi2T0AAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/amr-ahmed-b998965",
@@ -792,8 +792,8 @@
             "Personalization",
             "Content Analysis"
         ],
-        "citedby": 11322,
-        "lastupdate": "2023-10-14"
+        "citedby": 11753,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Amir Atiya",
@@ -810,8 +810,8 @@
             "Pattern Classification",
             "Computational Finance"
         ],
-        "citedby": 12838,
-        "lastupdate": "2023-10-14"
+        "citedby": 13215,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ramy Eskander",
@@ -831,14 +831,14 @@
             "Arabic NLP",
             "Unsupervised and Semi-Supervised Learning"
         ],
-        "citedby": 1926,
-        "lastupdate": "2023-10-14"
+        "citedby": 1980,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Tamer Elsayed",
         "affiliation": "Qatar University",
         "position": "Associate Professor",
-        "hindex": 30,
+        "hindex": 32,
         "photo": "./assets/images/tamer-elsayed.jpeg",
         "scholar": "https://scholar.google.com/citations?user=ekS-yPIAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/tamer-elsayed-a9a71116/",
@@ -850,14 +850,14 @@
             "Applied Machine Learning",
             "Big Data Analytics"
         ],
-        "citedby": 3081,
-        "lastupdate": "2023-10-14"
+        "citedby": 3257,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Elbadrashiny",
         "affiliation": "aiXplain",
         "position": "Principal Scientist",
-        "hindex": 16,
+        "hindex": 17,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=DppUkNUAAAAJ",
         "linkedin": "https://www.linkedin.com/in/mohamed-elbadrashiny-591908b",
@@ -868,8 +868,8 @@
             "Multimodal Dialog",
             "Large Language Models"
         ],
-        "citedby": 1647,
-        "lastupdate": "2023-10-14"
+        "citedby": 1676,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ibrahim Sabek",
@@ -885,8 +885,8 @@
             "Machine Learning for Database Systems",
             "Data Management and Analysis"
         ],
-        "citedby": 525,
-        "lastupdate": "2023-10-14"
+        "citedby": 538,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mostafa Saad Ibrahim",
@@ -902,8 +902,8 @@
             "Machine Learning",
             "Computer Vision"
         ],
-        "citedby": 765,
-        "lastupdate": "2023-10-14"
+        "citedby": 810,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mostafa Elhoushi",
@@ -921,14 +921,14 @@
             "Navigation",
             "Quantum Computing"
         ],
-        "citedby": 497,
-        "lastupdate": "2023-10-14"
+        "citedby": 531,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Sameh Khamis",
         "affiliation": "Rembrand",
         "position": "Lead Research Scientist",
-        "hindex": 22,
+        "hindex": 23,
         "photo": "./assets/images/sameh-khamis.jpeg",
         "scholar": "https://scholar.google.com/citations?user=9WgcwYQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/samehkhamis/",
@@ -939,8 +939,8 @@
             "Computer Vision",
             "Graphics"
         ],
-        "citedby": 4044,
-        "lastupdate": "2023-10-14"
+        "citedby": 4418,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ibrahim Sobh",
@@ -957,14 +957,14 @@
             "Computer Vision",
             "Autonomous Driving"
         ],
-        "citedby": 1501,
-        "lastupdate": "2023-10-14"
+        "citedby": 1715,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Aboul Ella Hassanien",
         "affiliation": "Cairo University",
         "position": "Professor",
-        "hindex": 85,
+        "hindex": 87,
         "photo": "./assets/images/aboul-ella-hassanien-ali.jpeg",
         "scholar": "https://scholar.google.com/citations?user=aZ6bcngAAAAJ&hl=en",
         "linkedin": "https://eg.linkedin.com/in/aboul-ella-hassanien-48a9528",
@@ -978,14 +978,14 @@
             "Metaverses",
             "Biomedical Informatics"
         ],
-        "citedby": 31717,
-        "lastupdate": "2023-10-14"
+        "citedby": 33035,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Fahmi Khalifa",
         "affiliation": "Mansoura University",
         "position": "Assistant Professor",
-        "hindex": 48,
+        "hindex": 50,
         "photo": "./assets/images/fahmi-khalifa.jpeg",
         "scholar": "https://scholar.google.ca/citations?user=Ua1i31oAAAAJ&hl=fr&oi=ao",
         "linkedin": "",
@@ -999,8 +999,8 @@
             "Multimedia",
             "Biomedical Informatics"
         ],
-        "citedby": 5472,
-        "lastupdate": "2023-10-14"
+        "citedby": 5785,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Khaled Fathy Hussein",
@@ -1017,8 +1017,8 @@
             "Computer Graphics",
             "Neural Networks"
         ],
-        "citedby": 1112,
-        "lastupdate": "2023-10-14"
+        "citedby": 1159,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Nabih Ali",
@@ -1038,14 +1038,14 @@
             "Biomedical Signal Processing",
             "Image Processing"
         ],
-        "citedby": 213,
-        "lastupdate": "2023-10-14"
+        "citedby": 228,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Omar Khattab",
         "affiliation": "Stanford University",
         "position": "PhD Student",
-        "hindex": 12,
+        "hindex": 13,
         "photo": "./assets/images/omar-khattab.jpeg",
         "scholar": "https://scholar.google.com/citations?user=Lwr5ozgAAAAJ&hl=en",
         "linkedin": "",
@@ -1055,14 +1055,14 @@
             "Natural Language Processing",
             "Information Retrieval"
         ],
-        "citedby": 2871,
-        "lastupdate": "2023-10-14"
+        "citedby": 3881,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Elgammal",
         "affiliation": "Rutgers University",
         "position": "Professor",
-        "hindex": 55,
+        "hindex": 56,
         "photo": "./assets/images/ahmed-elgammal.jpeg",
         "scholar": "https://scholar.google.com/citations?user=DxQiCiIAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/ahmed-elgammal-71667911/",
@@ -1071,8 +1071,8 @@
         "interests": [
             "Computer Vision"
         ],
-        "citedby": 16665,
-        "lastupdate": "2023-10-14"
+        "citedby": 17038,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed El-Kishky",
@@ -1091,8 +1091,8 @@
             "Graph Learning",
             "Recommender Systems"
         ],
-        "citedby": 1482,
-        "lastupdate": "2023-10-14"
+        "citedby": 1618,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Moustafa Alzantot",
@@ -1109,8 +1109,8 @@
             "Recommender Systems",
             "Natural Language Processing"
         ],
-        "citedby": 4263,
-        "lastupdate": "2023-10-14"
+        "citedby": 4443,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Heba Elfardy",
@@ -1125,8 +1125,8 @@
         "interests": [
             "Natural Language Processing"
         ],
-        "citedby": 607,
-        "lastupdate": "2023-10-14"
+        "citedby": 628,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Hefny",
@@ -1141,14 +1141,14 @@
         "interests": [
             "Machine Learning"
         ],
-        "citedby": 1586,
-        "lastupdate": "2023-10-14"
+        "citedby": 1650,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hady Elsahar",
         "affiliation": "Meta",
         "position": "Research Scientist",
-        "hindex": 15,
+        "hindex": 16,
         "photo": "./assets/images/hady-elsahar.jpeg",
         "scholar": "https://scholar.google.com.eg/citations?user=SbcM6bsAAAAJ&hl=en",
         "linkedin": "",
@@ -1158,8 +1158,8 @@
             "Natural Language Processing",
             "Machine Learning"
         ],
-        "citedby": 1755,
-        "lastupdate": "2023-10-14"
+        "citedby": 2143,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed M. Badawi",
@@ -1181,8 +1181,8 @@
             "Pattern Recognition",
             "Pattern Classification"
         ],
-        "citedby": 1589,
-        "lastupdate": "2023-10-14"
+        "citedby": 1604,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mostafa Badawy",
@@ -1200,14 +1200,14 @@
             "Computer Vision",
             "Artificial Intelligence"
         ],
-        "citedby": 407,
-        "lastupdate": "2023-10-14"
+        "citedby": 425,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Muhammad AbdulMageed",
         "affiliation": "UBC",
         "position": "Associate Professor",
-        "hindex": 26,
+        "hindex": 28,
         "photo": "./assets/images/muhammad-abdulmageed.jpeg",
         "scholar": "https://scholar.google.com/citations?user=SOjQhl8AAAAJ",
         "linkedin": "",
@@ -1218,14 +1218,14 @@
             "Natural Language Processing",
             "Machine Learning"
         ],
-        "citedby": 3515,
-        "lastupdate": "2023-10-14"
+        "citedby": 3831,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Wael Abd-Almageed",
         "affiliation": "USC",
         "position": "Research Associate Professor",
-        "hindex": 31,
+        "hindex": 32,
         "photo": "./assets/images/wael-abdalmageed.jpeg",
         "scholar": "https://scholar.google.com/citations?user=tRGH8FkAAAAJ&hl=en",
         "linkedin": "",
@@ -1235,14 +1235,14 @@
             "Machine Learning",
             "Computer Vision"
         ],
-        "citedby": 4121,
-        "lastupdate": "2023-10-14"
+        "citedby": 4367,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Youssef Nashed",
         "affiliation": "Stanford University",
         "position": "Staff ML Scientist",
-        "hindex": 21,
+        "hindex": 22,
         "photo": "./assets/images/youssef-nashed.jpeg",
         "scholar": "https://scholar.google.com/citations?user=pQXy90QAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/ynashed/",
@@ -1253,8 +1253,8 @@
             "Geometric Deep Learning",
             "Graph Neural Networks"
         ],
-        "citedby": 1554,
-        "lastupdate": "2023-10-14"
+        "citedby": 1632,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Abubakr Karali",
@@ -1270,14 +1270,14 @@
             "Computer Vision",
             "Self-Supervised Learning"
         ],
-        "citedby": 119,
-        "lastupdate": "2023-10-14"
+        "citedby": 123,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Sahlol",
         "affiliation": "Co-founder Tachyhealth",
         "position": "Associate Professor of ML",
-        "hindex": 15,
+        "hindex": 16,
         "photo": "./assets/images/ahmed-sahlol.jpeg",
         "scholar": "https://scholar.google.com/citations?user=JZB2oMQAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/ahmed-sahloul",
@@ -1288,8 +1288,8 @@
             "Medical NLP",
             "Medical Fraud Detection"
         ],
-        "citedby": 1428,
-        "lastupdate": "2023-10-14"
+        "citedby": 1521,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Eslam Kamal",
@@ -1307,8 +1307,8 @@
             "Conversational AI",
             "Responsible AI"
         ],
-        "citedby": 324,
-        "lastupdate": "2023-10-14"
+        "citedby": 347,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Yehia Elshater",
@@ -1325,8 +1325,8 @@
             "NLP",
             "Forecasting"
         ],
-        "citedby": 135,
-        "lastupdate": "2023-10-14"
+        "citedby": 138,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Rashed",
@@ -1343,8 +1343,8 @@
             "Graph Mining",
             "Time Series Forecasting"
         ],
-        "citedby": 186,
-        "lastupdate": "2023-10-14"
+        "citedby": 221,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Shady Elbassuoni",
@@ -1362,8 +1362,8 @@
             "Information Retrieval",
             "Public Health and Medicine"
         ],
-        "citedby": 2865,
-        "lastupdate": "2023-10-14"
+        "citedby": 2934,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Noha Radwan",
@@ -1379,14 +1379,14 @@
             "Computer vision",
             "Deep learning"
         ],
-        "citedby": 1828,
-        "lastupdate": "2023-10-14"
+        "citedby": 2119,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Radwa ElShawi",
         "affiliation": "Tartu university",
         "position": "Associate Professor",
-        "hindex": 17,
+        "hindex": 18,
         "photo": "./assets/images/radwa-elshawi.jpeg",
         "scholar": "https://scholar.google.de/citations?user=RD5PdpwAAAAJ&hl=en",
         "linkedin": "",
@@ -1397,8 +1397,8 @@
             "AutoML",
             "health informatics"
         ],
-        "citedby": 1610,
-        "lastupdate": "2023-10-14"
+        "citedby": 1707,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ramy Hussein",
@@ -1416,8 +1416,8 @@
             "Signal/Image Processing",
             "Medical Imaging"
         ],
-        "citedby": 1065,
-        "lastupdate": "2023-10-14"
+        "citedby": 1134,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Sarah Adel Bargal",
@@ -1433,8 +1433,8 @@
             "Computer vision",
             "Deep Learning"
         ],
-        "citedby": 2543,
-        "lastupdate": "2023-10-14"
+        "citedby": 2683,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Badr AlKhamissi",
@@ -1452,8 +1452,8 @@
             "Computational Neuroscience",
             "Computer Vision"
         ],
-        "citedby": 103,
-        "lastupdate": "2023-10-14"
+        "citedby": 145,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Moamen AbdelRazek",
@@ -1471,8 +1471,8 @@
             "Computer Vision",
             "ML Ops"
         ],
-        "citedby": 384,
-        "lastupdate": "2023-10-14"
+        "citedby": 407,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Magooda",
@@ -1488,8 +1488,8 @@
             "NLP",
             "Deep Learning"
         ],
-        "citedby": 308,
-        "lastupdate": "2023-10-14"
+        "citedby": 318,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Aly El Gamal",
@@ -1506,8 +1506,8 @@
             "Consumer Engagement",
             "Information Theory"
         ],
-        "citedby": 1170,
-        "lastupdate": "2023-10-14"
+        "citedby": 1237,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Tamer Basha",
@@ -1522,14 +1522,14 @@
         "interests": [
             "Medical Imaging"
         ],
-        "citedby": 1865,
-        "lastupdate": "2023-10-14"
+        "citedby": 1898,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Momen Negm",
         "affiliation": "Rasheed AI",
         "position": "Co-Founder",
-        "hindex": 25,
+        "hindex": 26,
         "photo": "./assets/images/momen-negm.jpg",
         "scholar": "https://scholar.google.com/citations?user=JJ_RhZEAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/momennegm/",
@@ -1539,8 +1539,8 @@
             "Computer Vision",
             "Machine Learning"
         ],
-        "citedby": 3807,
-        "lastupdate": "2023-10-14"
+        "citedby": 4201,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mostafa Salem",
@@ -1557,8 +1557,8 @@
             "Computer Vision",
             "3D Reconstruction"
         ],
-        "citedby": 1969,
-        "lastupdate": "2023-10-14"
+        "citedby": 2107,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Noureldin Elmadany",
@@ -1574,14 +1574,14 @@
             "Multimodal Learning",
             "Action Recognition and Anticipation"
         ],
-        "citedby": 239,
-        "lastupdate": "2023-10-14"
+        "citedby": 248,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Masry",
         "affiliation": "Arteria AI",
         "position": "Data Scientist",
-        "hindex": 5,
+        "hindex": 6,
         "photo": "./assets/images/ahmed-elmasry.jpg",
         "scholar": "https://scholar.google.com/citations?user=XqPX5XcAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/ahmed-masry-ku/",
@@ -1592,14 +1592,14 @@
             "Multimodal Chart & Document Understanding",
             "Computer Vision"
         ],
-        "citedby": 138,
-        "lastupdate": "2023-10-14"
+        "citedby": 190,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Sahar Selim",
         "affiliation": "Nile University",
         "position": "Assistant Professor",
-        "hindex": 6,
+        "hindex": 7,
         "photo": "./assets/images/sahar-selim.jpeg",
         "scholar": "https://scholar.google.com.eg/citations?hl=en&user=Ynx9NTwAAAAJ&view_op=list_works&sortby=pubdate",
         "linkedin": "https://www.linkedin.com/in/sahar-selim-soussa/?originalSubdomain=eg",
@@ -1611,8 +1611,8 @@
             "Brain-Computer Interface",
             "Neural Engineering"
         ],
-        "citedby": 250,
-        "lastupdate": "2023-10-14"
+        "citedby": 268,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ghada Khoriba",
@@ -1633,12 +1633,12 @@
             "LLMs",
             "Knowledge Graphs."
         ],
-        "citedby": 597,
-        "lastupdate": "2023-10-14"
+        "citedby": 633,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Fatma Elzahraa Eid",
-        "affiliation": "Broad Institute / Al-Azhar",
+        "affiliation": "Broad Institute of MIT and Harvard / Al-Azhar",
         "position": "Biomedical Machine Learning Group Lead",
         "hindex": 5,
         "photo": "./assets/images/fatma-elzahraa.jpeg",
@@ -1652,12 +1652,12 @@
             "Biological sequence engineering",
             "Data-driven Therapeutics"
         ],
-        "citedby": 363,
-        "lastupdate": "2023-10-14"
+        "citedby": 386,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Haitham Elmarakeby",
-        "affiliation": "DF/HCC / Alazhar University",
+        "affiliation": "Harvard Medical School / Alazhar University",
         "position": "Instructor / ML Group Lead",
         "hindex": 17,
         "photo": "./assets/images/haitham-elmarakeby.jpeg",
@@ -1668,14 +1668,14 @@
         "interests": [
             "Cancer Machine Learning"
         ],
-        "citedby": 1776,
-        "lastupdate": "2023-10-14"
+        "citedby": 1903,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmad Taher Azar",
         "affiliation": "Prince Sultan / Benha Uni",
         "position": "Full Professor",
-        "hindex": 68,
+        "hindex": 69,
         "photo": "./assets/images/ahmad-azar.jpeg",
         "scholar": "https://scholar.google.com/citations?user=6gf4UVkAAAAJ&hl=en",
         "linkedin": "",
@@ -1687,17 +1687,17 @@
             "Artificial Intelligence",
             "Reinforcement Learning"
         ],
-        "citedby": 17481,
-        "lastupdate": "2023-10-14"
+        "citedby": 18078,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hossam Hassan Ammar",
         "affiliation": "University of Hertfordshire",
-        "position": "Lecturer of Mechatronics and Robotics, CTO of ITC",
-        "hindex": 16,
-        "photo": "./assets/images/default.jpg",
+        "position": "Assistant Professor of Mechatronics and Robotics, CTO of ITC",
+        "hindex": 17,
+        "photo": "./assets/images/hossam-ammar.jpeg",
         "scholar": "https://scholar.google.com/citations?user=gxtCFWkAAAAJ&hl=en",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/hossam-ammar-\u060c-phd-mieee-6707317b",
         "website": "",
         "twitter": "",
         "interests": [
@@ -1706,8 +1706,8 @@
             "Automatic Control",
             "Renewable Energy"
         ],
-        "citedby": 672,
-        "lastupdate": "2023-10-14"
+        "citedby": 720,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Marwa Mahmoud",
@@ -1725,8 +1725,8 @@
             "Gesture Recognition",
             "Animal Behaviour Understanding"
         ],
-        "citedby": 1550,
-        "lastupdate": "2023-10-14"
+        "citedby": 1613,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Elgohary",
@@ -1741,8 +1741,8 @@
         "interests": [
             "Natural Language Processing"
         ],
-        "citedby": 3380,
-        "lastupdate": "2023-10-14"
+        "citedby": 3543,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Amr Sharaf",
@@ -1759,8 +1759,8 @@
             "Computer Vision",
             "Machine Learning"
         ],
-        "citedby": 331,
-        "lastupdate": "2023-10-14"
+        "citedby": 403,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hazem Rashed",
@@ -1777,8 +1777,8 @@
             "Computer Vision",
             "Autonomous Driving"
         ],
-        "citedby": 893,
-        "lastupdate": "2023-10-14"
+        "citedby": 942,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mennatullah Siam",
@@ -1798,14 +1798,14 @@
             "Video Understanding",
             "Spatiotemporal Models Interpretability."
         ],
-        "citedby": 1323,
-        "lastupdate": "2023-10-14"
+        "citedby": 1377,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hamdy Mubarak",
         "affiliation": "QCRI",
         "position": "Principal Software Engineer",
-        "hindex": 32,
+        "hindex": 34,
         "photo": "./assets/images/hamdy-mubarak.jpeg",
         "scholar": "https://scholar.google.com/citations?user=usvY6qYAAAAJ&hl=en",
         "linkedin": "",
@@ -1818,18 +1818,18 @@
             "Social Media Analysis",
             "Arabic NLP"
         ],
-        "citedby": 3753,
-        "lastupdate": "2023-10-14"
+        "citedby": 4065,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Mokbel",
-        "affiliation": "Univ. of Minnesota",
-        "position": "Distinguished McKnight University Professor, Univ. of Minnesota",
+        "affiliation": "University of Minnesota",
+        "position": "Distinguished McKnight University Professor",
         "hindex": 58,
-        "photo": "./assets/images/default.jpg",
+        "photo": "./assets/images/mohamed-mokbel.png",
         "scholar": "https://scholar.google.com/citations?hl=en&user=GHz1ZVIAAAAJ",
-        "linkedin": "",
-        "website": "",
+        "linkedin": "https://www.linkedin.com/in/mohamed-mokbel-4a053130/",
+        "website": "https://www.cs.umn.edu/~mokbel",
         "twitter": "",
         "interests": [
             "Database Systems",
@@ -1838,8 +1838,8 @@
             "Spatial Big Data",
             "Mobile Data Management"
         ],
-        "citedby": 15995,
-        "lastupdate": "2023-10-14"
+        "citedby": 16198,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ashraf Aboulnaga",
@@ -1856,8 +1856,8 @@
             "Cloud computing",
             "Graphs"
         ],
-        "citedby": 5864,
-        "lastupdate": "2023-10-14"
+        "citedby": 5993,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Essam Mansour",
@@ -1875,14 +1875,14 @@
             "distributed/parallel systems",
             "machine learning"
         ],
-        "citedby": 1371,
-        "lastupdate": "2023-10-14"
+        "citedby": 1451,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ihab F. Ilyas",
         "affiliation": "University of Waterloo",
         "position": "Professor",
-        "hindex": 57,
+        "hindex": 58,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=YG6mTEIAAAAJ&hl=en",
         "linkedin": "",
@@ -1895,14 +1895,14 @@
             "Data Integration",
             "Data Science"
         ],
-        "citedby": 13153,
-        "lastupdate": "2023-10-14"
+        "citedby": 13482,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Walid G. Aref",
         "affiliation": "Purdue University",
         "position": "Professor",
-        "hindex": 63,
+        "hindex": 64,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=vX45evgAAAAJ&hl=en",
         "linkedin": "",
@@ -1913,8 +1913,8 @@
             "Spatial Databases",
             "Data Management"
         ],
-        "citedby": 16201,
-        "lastupdate": "2023-10-14"
+        "citedby": 16371,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Abdurrahman Ghanem",
@@ -1931,8 +1931,8 @@
             "Artificial Intelligence",
             "Machine Learning"
         ],
-        "citedby": 457,
-        "lastupdate": "2023-10-14"
+        "citedby": 492,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Hossam Hammady",
@@ -1950,14 +1950,14 @@
             "machine learning",
             "data analytics"
         ],
-        "citedby": 11330,
-        "lastupdate": "2023-10-14"
+        "citedby": 12539,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Sherif Abdou",
         "affiliation": "Cairo University",
         "position": "Associate Professor",
-        "hindex": 19,
+        "hindex": 20,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=aFYes5MAAAAJ&hl=en",
         "linkedin": "",
@@ -1970,14 +1970,14 @@
             "language modeling",
             "text to speech"
         ],
-        "citedby": 1344,
-        "lastupdate": "2023-10-14"
+        "citedby": 1389,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Amr Magdy",
         "affiliation": "UC Riverside",
         "position": " Assistant Professor",
-        "hindex": 16,
+        "hindex": 18,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=11CMsKsAAAAJ&hl=en",
         "linkedin": "",
@@ -1990,14 +1990,14 @@
             "large-scale data analytics",
             "indexing"
         ],
-        "citedby": 842,
-        "lastupdate": "2023-10-14"
+        "citedby": 1058,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Thanaa Ghanem",
         "affiliation": "Metropolitan State University",
         "position": "Metropolitan State University",
-        "hindex": 15,
+        "hindex": 16,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=ZUQDHsMAAAAJ&hl=en",
         "linkedin": "",
@@ -2006,14 +2006,14 @@
         "interests": [
             "Database systems"
         ],
-        "citedby": 1260,
-        "lastupdate": "2023-10-14"
+        "citedby": 1277,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohammed Attia",
         "affiliation": "Google Inc.",
         "position": "Analytical Linguist",
-        "hindex": 26,
+        "hindex": 25,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=fvpPkj0AAAAJ&hl=en",
         "linkedin": "",
@@ -2026,8 +2026,8 @@
             "spell checking",
             "Lexical Functional Grammar"
         ],
-        "citedby": 3251,
-        "lastupdate": "2023-10-14"
+        "citedby": 2859,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Ahmed Mourad",
@@ -2045,8 +2045,8 @@
             "Natural language Processing",
             "Social Media Analysis"
         ],
-        "citedby": 491,
-        "lastupdate": "2023-10-14"
+        "citedby": 512,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Tarek El-Ganainy",
@@ -2064,8 +2064,8 @@
             "Machine Learning",
             "Virtual Reality"
         ],
-        "citedby": 177,
-        "lastupdate": "2023-10-14"
+        "citedby": 179,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Hefeeda",
@@ -2082,14 +2082,14 @@
             "Computer Networks",
             "Multimedia AI"
         ],
-        "citedby": 6057,
-        "lastupdate": "2023-10-14"
+        "citedby": 6109,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Elgharib",
         "affiliation": "MPI for Informatics",
         "position": "Research Group Leader",
-        "hindex": 25,
+        "hindex": 26,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=e1WLgm8AAAAJ&hl=en",
         "linkedin": "",
@@ -2101,8 +2101,8 @@
             "Machine Learning",
             "Virtual/Augmented Reality"
         ],
-        "citedby": 2627,
-        "lastupdate": "2023-10-14"
+        "citedby": 2864,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Tarek Elgamal",
@@ -2120,14 +2120,14 @@
             "Multimedia systems",
             "Machine Learning"
         ],
-        "citedby": 448,
-        "lastupdate": "2023-10-14"
+        "citedby": 476,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "AbdelRahim A. ElMadany",
         "affiliation": "UBC",
         "position": "PostDoc",
-        "hindex": 11,
+        "hindex": 12,
         "photo": "./assets/images/default.jpg",
         "scholar": "https://scholar.google.com/citations?user=v3akuNAAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/tarek-elgamal/",
@@ -2140,8 +2140,8 @@
             "Machine Learning",
             "Speech Act"
         ],
-        "citedby": 657,
-        "lastupdate": "2023-10-14"
+        "citedby": 821,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Waleed Fakhr",
@@ -2158,8 +2158,8 @@
             "Deep Learning",
             "NLP"
         ],
-        "citedby": 685,
-        "lastupdate": "2023-10-14"
+        "citedby": 711,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Loey",
@@ -2177,8 +2177,8 @@
             "Machine Learning",
             "Image Processing"
         ],
-        "citedby": 3214,
-        "lastupdate": "2023-10-14"
+        "citedby": 3427,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Wael Badawy",
@@ -2195,14 +2195,14 @@
             "Computer Vision",
             "Cyber Security."
         ],
-        "citedby": 4218,
-        "lastupdate": "2023-10-14"
+        "citedby": 4317,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Salem Elaraby",
         "affiliation": "University of Pittsburgh",
         "position": "PhD Researcher",
-        "hindex": 6,
+        "hindex": 7,
         "photo": "./assets/images/mohamed-elaraby.jpg",
         "scholar": "https://scholar.google.com.eg/citations?user=A5jMCaAAAAAJ&hl=en",
         "linkedin": "https://www.linkedin.com/in/mohamed-salem-b25b24b6/",
@@ -2213,8 +2213,8 @@
             "Legal Document Summarization",
             "Deep Learning"
         ],
-        "citedby": 179,
-        "lastupdate": "2023-10-14"
+        "citedby": 208,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Mohamed Altantawy",
@@ -2230,14 +2230,14 @@
             "Machine Learning",
             "Natural Langauge Processing"
         ],
-        "citedby": 191,
-        "lastupdate": "2023-10-14"
+        "citedby": 195,
+        "lastupdate": "2024-01-02"
     },
     {
         "name": "Muhammad Ali Rushdi",
         "affiliation": "Cairo & New Giza University",
         "position": "Associate Professor",
-        "hindex": 13,
+        "hindex": 14,
         "photo": "./assets/images/muhammad-rushdi.png",
         "scholar": "https://scholar.google.com/citations?user=vDgGLjsAAAAJ&hl=en&oi=ao",
         "linkedin": "https://www.linkedin.com/in/muhammad-rushdi-4817a462/",
@@ -2251,7 +2251,262 @@
             "Computer Vision",
             "Applied Mathematics"
         ],
-        "citedby": 550,
-        "lastupdate": "2023-10-14"
+        "citedby": 584,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mohamed El Banani",
+        "affiliation": "University of Michigan Ann Arbor",
+        "position": "PhD Student",
+        "hindex": 6,
+        "photo": "./assets/images/mohamed-elbanani.jpg",
+        "scholar": "https://scholar.google.com/citations?user=Iwe1QVEAAAAJ",
+        "linkedin": "",
+        "website": "https://mbanani.github.io/",
+        "twitter": "https://twitter.com/_mbanani",
+        "interests": [
+            "Computer Vision",
+            "Machine Learning",
+            "Cognitive Science"
+        ],
+        "citedby": 113,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mai ElSherief",
+        "affiliation": "Northeastern University",
+        "position": "Assistant Professor",
+        "hindex": 13,
+        "photo": "./assets/images/mai-elsherief.png",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=Rykl2HkAAAAJ&view_op=list_works&sortby=pubdate",
+        "linkedin": "https://www.linkedin.com/in/mai-elsherief-ph-d-38638082",
+        "website": "",
+        "twitter": "https://twitter.com/mai_elsherief?lang=en",
+        "interests": [
+            "Social computing",
+            "Natural Language Processing",
+            "Applied Machine Learning",
+            "Information science",
+            "Data"
+        ],
+        "citedby": 1504,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mahmoud Azab",
+        "affiliation": "Meta",
+        "position": "Research Scientist",
+        "hindex": 8,
+        "photo": "./assets/images/mohamed-azab.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=sQROlqMAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "https://twitter.com/M_MoNeEb",
+        "interests": [
+            "Natural Language Processing",
+            "Computer Vision",
+            "Multimodal Machine Learning"
+        ],
+        "citedby": 242,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Ahmed M. Abdelmoniem",
+        "affiliation": "Queen Mary University of London",
+        "position": "Assistant Professor",
+        "hindex": 21,
+        "photo": "./assets/images/ahmed-abdelmoniem.jpg",
+        "scholar": "https://scholar.google.com/citations?user=CzfuSJgAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/ahmedmabdelmoniem/",
+        "website": "http://eecs.qmul.ac.uk/~ahmed/",
+        "twitter": "",
+        "interests": [
+            "Distributed Systems",
+            "Computer Networks",
+            "Machine Learning",
+            "Federated Learning"
+        ],
+        "citedby": 986,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Walid Gomaa",
+        "affiliation": "Egypt Japan University for Science and Technology",
+        "position": "Professor",
+        "hindex": 19,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=tZ1q2UUAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/walid-gomaa-40a45926?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "website": "https://sites.google.com/ejust.edu.eg/walid-gomaa/",
+        "twitter": "",
+        "interests": [
+            "Machine learning",
+            "Artificial intelligence",
+            "Computer Vision"
+        ],
+        "citedby": 1509,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Sameh Alansary",
+        "affiliation": "Alexandria University",
+        "position": "Professor and head of Phonetics and Linguistics Department",
+        "hindex": 11,
+        "photo": "./assets/images/sameh-alansary.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=dgBdtaUAAAAJ&hl=en&oi=ao",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computational Linguistics",
+            "Corpus Linguistics",
+            "NLP"
+        ],
+        "citedby": 464,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mohamed ElHelw",
+        "affiliation": "Center for Informatics Science, Nile University",
+        "position": "Professort and Center for Informatics Science director",
+        "hindex": 15,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://www.researchgate.net/profile/Mohamed-Elhelw",
+        "linkedin": "https://www.linkedin.com/in/mohamedelhelw/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer vision",
+            "deep learning"
+        ],
+        "citedby": 0,
+        "lastupdate": ""
+    },
+    {
+        "name": "Ayman Youssef",
+        "affiliation": "Electronics Reseach institute",
+        "position": "Researcher",
+        "hindex": 6,
+        "photo": "./assets/images/ayman-youssef.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=1RYci-8AAAAJ&hl=en&oi=ao",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Applications and Tools of ML",
+            "NLP",
+            "FPGA Implementations of ML Algorithms"
+        ],
+        "citedby": 385,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mervat Gheith",
+        "affiliation": "Cairo university",
+        "position": "Assoc. Prof",
+        "hindex": 10,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=zhZQaoYAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "AI",
+            "NLP"
+        ],
+        "citedby": 354,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Mohamed Ezz",
+        "affiliation": "Jouf University, Al Azhar University",
+        "position": "Professor",
+        "hindex": 9,
+        "photo": "./assets/images/moahmed-ezz.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=0oVjLe4AAAAJ&hl=ar&oi=ao",
+        "linkedin": "https://www.linkedin.com/in/mohamed-ezz-phd-cbap-24122210/",
+        "website": "",
+        "twitter": "",
+        "interests": [
+            "Computer Vision",
+            "Machine Learning",
+            "Natural Language Processing"
+        ],
+        "citedby": 436,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Dr Mohamed Abdelhack",
+        "affiliation": "CAMH",
+        "position": "PostDoc Fellow",
+        "hindex": 6,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.co.jp/citations?user=S1TWer4AAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/mabdelhack?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "website": "https://mabdelhack.github.io",
+        "twitter": "https://x.com/mabdelhack?t=63lEQLFmxGgJjDKH4VKf3A&s=09",
+        "interests": [
+            "Computational Neuroscience",
+            "Machine Learning",
+            "Deep Learning",
+            "AI"
+        ],
+        "citedby": 110,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "El-Sayed M. El-kenawy",
+        "affiliation": "Delta Higher Institute of Engineering and Technology",
+        "position": "Associate Professor",
+        "hindex": 42,
+        "photo": "./assets/images/sayed-kenawy.jpeg",
+        "scholar": "https://scholar.google.com/citations?user=fA25haEAAAAJ&hl=en",
+        "linkedin": "https://www.linkedin.com/in/sayed-kenawy-162328220",
+        "website": "https://sayedkenawy.com/",
+        "twitter": "",
+        "interests": [
+            "Metaheuristics",
+            "Optimization",
+            "AI",
+            "Data Mining",
+            "Machine Learning"
+        ],
+        "citedby": 5542,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Waleed A. Yousef",
+        "affiliation": "Helwan University / MESC Labs",
+        "position": "Associate Professor / Founder",
+        "hindex": 14,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?user=dfBOO6oAAAAJ&hl=en",
+        "linkedin": "",
+        "website": "",
+        "twitter": "",
+        "interests": [],
+        "citedby": 1349,
+        "lastupdate": "2024-01-02"
+    },
+    {
+        "name": "Omneya Attallah",
+        "affiliation": "AASTMT",
+        "position": "Associate Professor",
+        "hindex": 25,
+        "photo": "./assets/images/default.jpg",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=QpDDpNEAAAAJ",
+        "linkedin": "http://linkedin.com/in/omneya-attallah-8729ab129",
+        "website": "https://aast.edu/cv.php?ser=50275",
+        "twitter": "",
+        "interests": [
+            "Deep/machine learning",
+            "Biomedical Signal Processing",
+            "Computer Vision",
+            "Pattern Recognition",
+            "Medical Imaging",
+            "Brain-Computer Interface"
+        ],
+        "citedby": 1414,
+        "lastupdate": "2024-01-02"
     }
 ]
