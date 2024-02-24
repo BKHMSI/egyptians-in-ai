@@ -49,8 +49,8 @@ if __name__ == "__main__":
                 print(f"> [Add] {name}")
                 new_researchers += [{
                     "name": name,
-                    "affiliation": response["Affiliation"].strip(),
-                    "position": response["Position"].strip(),
+                    "affiliation": str(response["Affiliation"]).strip(),
+                    "position": str(response["Position"]).strip(),
                     "hindex": -1,
                     "photo": photo_link if not is_nan(photo_link) else "./assets/images/default.jpg",
                     "scholar": scholar,
@@ -72,8 +72,8 @@ if __name__ == "__main__":
             print(f"> [Update] {name}")
             to_update_researchers += [{
                     "name": name,
-                    "affiliation": response["Affiliation.1"].strip(),
-                    "position": response["Position.1"].strip(),
+                    "affiliation": str(response["Affiliation.1"]).strip(),
+                    "position": str(response["Position.1"]).strip(),
                     "hindex": -1,
                     "photo": photo_link if not is_nan(photo_link) else "./assets/images/default.jpg",
                     "scholar": scholar,
