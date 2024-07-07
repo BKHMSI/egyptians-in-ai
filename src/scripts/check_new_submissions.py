@@ -35,7 +35,6 @@ if __name__ == "__main__":
         if match:
             scholar_id = match.group(1)
             author = scholarly.fill(scholarly.search_author_id(scholar_id)) 
-            breakpoint()
             researcher["hindex"] = author['hindex']
             researcher["citedby"] = author["citedby"]
             researcher["lastupdate"] = formatted_date

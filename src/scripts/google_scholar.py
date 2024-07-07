@@ -43,4 +43,4 @@ if __name__ == "__main__":
                 researcher["citedby"] = 0
             print(f"{researcher['name']} not found!")
     
-    write_json(out_file, researchers)
+        write_json(out_file, researchers)
