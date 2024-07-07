@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { IResearcher } from '../researchers';
-import people from '../../assets/researchers_ar.json';
+import people from '../../assets/researchers_en.json';
 import { FilterService } from '../filter.service';
 @Component({
   selector: 'app-arabic',
