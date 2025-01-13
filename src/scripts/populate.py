@@ -26,7 +26,7 @@ if __name__ == "__main__":
     new_researchers = []
     to_update_researchers = []
 
-    last_update = datetime.strptime("8/30/2023", "%m/%d/%Y")
+    last_update = datetime.strptime("7/4/2024", "%m/%d/%Y")
 
     names = [entry["name"] for entry in researchers]
 
@@ -34,8 +34,8 @@ if __name__ == "__main__":
         response = responses.iloc[idx]
         add_flag = response["Add or Update"] == "Add"
         timestamp = datetime.strptime(response["Timestamp"], "%m/%d/%Y %H:%M:%S")
-        if timestamp < last_update:
-            continue
+        # if timestamp < last_update:
+        #     continue
         
         if add_flag and not pd.isna(response["Name"]):
             name = response["Name"].strip()
@@ -86,4 +86,4 @@ if __name__ == "__main__":
                 }]
             
     write_json(out_new_file, new_researchers)
-    write_json(out_update_file, to_update_researchers)
+    # write_json(out_update_file, to_update_researchers)

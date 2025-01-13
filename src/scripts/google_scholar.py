@@ -16,8 +16,9 @@ def read_json(path):
 
 if __name__ == "__main__":
 
-    out_file = "./assets/researchers_update.json"
-    researchers = read_json("./assets/researchers_en.json")
+    out_file = "./assets/researchers_update_3.json"
+    # 57, 105, 106
+    researchers = read_json("./assets/researchers_en.json")[107:]
 
     timestamp = time.time()
     # Convert the timestamp to a datetime object
