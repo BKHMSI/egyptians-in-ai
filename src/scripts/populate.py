@@ -26,7 +26,7 @@ if __name__ == "__main__":
     new_researchers = []
     to_update_researchers = []
 
-    last_update = datetime.strptime("7/4/2024", "%m/%d/%Y")
+    last_update = datetime.strptime("1/13/2024", "%m/%d/%Y")
 
     names = [entry["name"] for entry in researchers]
 

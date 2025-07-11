@@ -16,9 +16,9 @@ def read_json(path):
 
 if __name__ == "__main__":
 
-    out_file = "./assets/researchers_update_3.json"
+    out_file = "./assets/researchers_update.json"
     # 57, 105, 106
-    researchers = read_json("./assets/researchers_en.json")[107:]
+    researchers = read_json("./assets/researchers_en.json")
 
     timestamp = time.time()
     # Convert the timestamp to a datetime object
@@ -32,12 +32,16 @@ if __name__ == "__main__":
         match = re.search(pattern, scholar_link)
         if match:
             scholar_id = match.group(1)
-            author = scholarly.fill(scholarly.search_author_id(scholar_id))
-            if author["hindex"] != researcher["hindex"]:
-                print(f"Updating {researcher['name']} h-index: {researcher['hindex']} --> {author['hindex']}") 
-            researcher["hindex"] = author['hindex']
-            researcher["citedby"] = author["citedby"]
-            researcher["lastupdate"] = formatted_date
+            try:
+                author = scholarly.fill(scholarly.search_author_id(scholar_id))
+                if author["hindex"] != researcher["hindex"]:
+                    print(f"Updating {researcher['name']} h-index: {researcher['hindex']} --> {author['hindex']}") 
+                researcher["hindex"] = author['hindex']
+                researcher["citedby"] = author["citedby"]
+                researcher["lastupdate"] = formatted_date
+            except:
+                print(f"[Error] {researcher['name']}")
+                continue 
         else:
             if "lastupdate" not in researcher:
                 researcher["lastupdate"] = ""
