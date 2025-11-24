@@ -16,7 +16,7 @@ def read_json(path):
 
 if __name__ == "__main__":
 
-    out_file = "./assets/researchers_update.json"
+    out_file = "./assets/researchers_en_update.json"
     # 57, 105, 106
     researchers = read_json("./assets/researchers_en.json")
 

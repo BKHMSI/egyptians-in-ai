@@ -9,7 +9,8 @@ If you think that someone is missing from our list of featured researchers, we w
 We hope that you find our website informative and inspiring, and we invite you to explore the profiles of our featured researchers to learn more about their work.
 
 ## Other `X in Y` Websites:
-- [Moroccans in AI Research](https://mohamedelbaha.github.io/moroccans-in-ai/)
+- [Moroccans in AI Research](https://mair.ma)
+- [Pakistanis in AI Research](https://ahmadmustafaanis.github.io/Pakistanis-in-ai/)
 
 ## Steps to Create Your Own `X in Y` Website
 
@@ -42,3 +43,18 @@ You can reference this [GitHub article](https://docs.github.com/en/pages/getting
 Reach out with the link to your deployed website so I can include it in the list of `X in Y` websites.
 
 Remember, if you encounter any issues during the process, don't hesitate to ask for help!
+
+
+## Update Website 
+
+1. Download the spreadsheet with new entries as `researchers.csv`
+2. Run `scripts/populate.py`, this will create two spreadsheets `researchers_new.json` and `researchers_update.json`
+3. Append valid entries in `researchers_new.json` to `researchers_en.json`
+4. Run `scripts/google_scholar.py` to update h-index values that will create a new file `researchers_en_new.json`
+5. Update entries in `researchers_en_new.json` with valid entries in `researchers_update.json`
+6. Rename `researchers_en_new.json` with `researchers_en.json`
+
+## Pre-Build
+```
+export NODE_OPTIONS=--openssl-legacy-provider
+```
